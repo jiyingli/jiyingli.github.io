@@ -1,7 +1,7 @@
 ### [**Home**](README.md)  /  [**Research**](Research.md)  /  [**Teaching**](Teaching.md)   /  [**Publications**](Publications.md)  /  [**Join us**](Joinus.md)  /  [**News**](News.md) 
 ---
 ### _Theses_
-- J. LI (2014) Sediment diagenesis in large lakes Superior and Malawi, geochemical cycles and budgets and comparison to marine sediments. Ph.D Thesis. University of Minnesota (PDF)
+- J. LI (2014) Sediment diagenesis in large lakes Superior and Malawi, geochemical cycles and budgets and comparison to marine sediments. Ph.D Thesis. University of Minnesota [PDF](/Li_JiyingJune2011.pdf)
 - J. LI (2011) Diagenesis and sediment-water exchanges in organic-poor sediments of Lake Superior. M. Sc. Thesis. University of Minnesota (PDF)
 ### _Journal Publications_
 - Li, J. and M. Dittrich. 2019. Dynamic polyphosphate metabolism in cyanobacteria responding to phosphorus availability. Environmental Microbiology : doi:10.1111/1462-2920.14488  (PDF) 
