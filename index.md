@@ -8,7 +8,7 @@
     		<ul>
         		<a href="/Home">Home</a>
 			<a href="/Research">Research</a>
-        		<a href="/Teaching">Blog</a>
+        		<a href="/Teaching">Teaching</a>
 			<a href="/People">People</a>
 			<a href="/Join us">Join us</a>
     		</ul>
@@ -20,8 +20,4 @@
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
-    	
-			</ul>
-		</footer>
-	</body>
 </html>
