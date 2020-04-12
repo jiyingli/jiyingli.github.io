@@ -17,5 +17,5 @@ We study geochemistry of lakes and oceans, focusing on the cycling of vital elem
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](/master/Jiying.png)
 
