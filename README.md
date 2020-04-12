@@ -1,18 +1,9 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jiyingli/jiyingli.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# The Aquatic Geochemistry Lab
+We studying geochemistry of lakes and oceans, focusing on the cycling of vital elements for life including carbon, nitrogen, phosphorus, sulfur, and redox metals. We couple field and laboratory data with numerical modeling to study the flow of elements and energy on ecosystem to globle scales and understand how they respond to climate change and human perturbations. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Themes 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
 ### Header 3
 
 - Bulleted
