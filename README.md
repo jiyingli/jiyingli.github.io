@@ -21,6 +21,6 @@ See [Research](Research.md) for past and ongoing projects
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](Research.md) and ![Image](Jiying.png|width=100)
+[Link](Research.md) and ![Image](Jiying.png)
 
 [a relative link](Research.md)
