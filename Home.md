@@ -18,3 +18,5 @@ We studying geochemistry of lakes and oceans, focusing on the cycling of vital e
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+[link](https://github.com/jiyingli/jiyingli.github.io/blob/master/Research.md#current-research-directions)
