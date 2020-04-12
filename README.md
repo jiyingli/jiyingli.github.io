@@ -9,7 +9,9 @@ We study geochemistry of lakes and oceans, focusing on the cycling of vital elem
 ### Biogeochemistry of lakes and oceans
 ### Sediment Geochemistry
 ### Plankton ecology
-### Climate change and ecosystem response
+### Climate change and ecosystem response 
+
+See [Research](Research.md) for past and ongoing projects
 
 - Bulleted
 - List
