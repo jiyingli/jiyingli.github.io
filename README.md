@@ -1,7 +1,7 @@
 ### [**Home**](README.md)  /  [**Research**](Research.md)  /  [**Teaching**](Teaching.md)   /  [**Publications**](Publications.md)  /  [**Join us**](Joinus.md)  /  [**News**](News.md) 
 ---
 
-# The Aquatic Biogeochemistry Lab
+# Aquatic Biogeochemistry
 We study the physical, biological, and geological -driven exchange and transformation of elements in lakes and oceans, focusing on the cycles of vital elements for life, including carbon, nitrogen, phosphorus, sulfur, and redox metals. We couple field and laboratory data with numerical modeling to study the flow of elements and energy on ecosystem scale and to understand aquatic ecosystem respond to climate change and human perturbations. 
 
 ## Research Themes 
