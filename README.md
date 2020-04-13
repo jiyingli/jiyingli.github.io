@@ -2,7 +2,7 @@
 ---
 
 # Aquatic Biogeochemistry
-We study the physical, biological, and geological -driven exchange and transformation of elements in lakes and oceans, focusing on the cycles of vital elements for life, including carbon, nitrogen, phosphorus, sulfur, and redox metals. We couple field and laboratory data with numerical modeling to study the flow of elements and energy on ecosystem scale and to understand aquatic ecosystem respond to climate change and human perturbations. 
+We study the physical, biological, and geological -driven exchange and transformation of elements in lakes and oceans, focusing on the cycles of vital elements including carbon, nitrogen, phosphorus, sulfur, and redox metals. We work on a diverse range of ecosystems including freshwater inland lakes, estuaries, coastal and deep oceans. We couple field and laboratory data with numerical modeling to seek mechanistic understanding of biogeochemical processes across scales in space and time.
 
 ## Research Themes 
 
@@ -12,7 +12,7 @@ Sediment is the ultimate sink of materials from the water column. In sediments, 
 ### - Plankton ecology and nutrient dynamics 
 Geochemical cycles affect aquatic ecosystem functions via interacting with biological processes, particularly those of the microorganisms that form the bottom of the food web. We are interested in studying the relationships between nutrient dynamics and plankton physiology and ecology. Our current focus is to understand how primary producers respond to nutrient variability.
 
-### - Climate change and ecosystem response 
+### - Aquatic ecosystem responses to climate change and anthropogenic activities
 We are interested in how climate affect ecosystems with focus on the geochemical aspect. We incorporate laboratory experiments and analyses to reaction-transport-ecology modeling to understand these impacts.
 
 #### See [Research](Research.md) for past and ongoing projects
