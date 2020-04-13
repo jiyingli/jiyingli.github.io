@@ -1,10 +1,6 @@
 ### [**Home**](README.md)  /  [**Research**](Research.md)  /  [**Teaching**](Teaching.md)   /  [**Publications**](Publications.md)  /  [**Join us**](Joinus.md)  /  [**News**](News.md) 
 ---
-### _Theses_
-- J. LI (2014) Sediment diagenesis in large lakes Superior and Malawi, geochemical cycles and budgets and comparison to marine sediments. Ph.D Thesis. University of Minnesota [(Link)](https://drive.google.com/file/d/10CF7WcwmcOKvTW2SEN_zcsfruEGr4IRP/view)
-- J. LI (2011) Diagenesis and sediment-water exchanges in organic-poor sediments of Lake Superior. M. Sc. Thesis. University of Minnesota [(Link)](https://drive.google.com/file/d/10CF7WcwmcOKvTW2SEN_zcsfruEGr4IRP/view)
-
-### _Journal Publications_
+### _Peer-reviewed Journals_
 - Li, J., D. Plouchart, A. Zastepa and M. Dittrich. 2019. Picoplankton accumulate and recycle polyphosphate to support high primary productivity in coastal Lake Ontario. Scientific Reports 9: 19563 [(PDF)](https://www.nature.com/articles/s41598-019-56042-5.pdf)
 - Li, J. and M. Dittrich. 2019. Dynamic polyphosphate metabolism in cyanobacteria responding to phosphorus availability. Environmental Microbiology : doi:10.1111/1462-2920.14488 [(Link)](https://www.researchgate.net/publication/329189642_Dynamic_polyphosphate_metabolism_in_cyanobacteria_responding_to_phosphorus_availability)
 - Li, J., Y. Zhang, and S. Katsev. 2018. Phosphorous recycling in deeply oxygenated sediments in Lake Superior controlled by organic matter mineralization. Limnology and Oceanography. 63: 1372- 1385 [(Link)](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.10778)
@@ -15,7 +11,12 @@
 - Crowe, S. A., A. H. Treusch, M. Forth, J. Li, C. Magen, D. E. Canfield, B. Thamdrup, S. Katsev. 2017. Novel anammox bacteria and nitrogen loss from Lake Superior. Scientific Reports. 7: 13757 [(PDF)](https://www.nature.com/articles/s41598-017-12270-1.pdf)
 - Li, J., and S. Katsev. 2014. Nitrogen cycling in deeply oxygenated sediments: Results in Lake Superior and implication to marine sediments. Limnol. Oceanogr. 59 (2): 465–481 [(Link)](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.2014.59.2.0465)
 - Li, J. S. A. Crowe, D. Miklesh, M. Kistner, D. E. Canfield, and S. Katsev. 2012. Carbon mineralization and oxygen dynamics in sediments with deep oxygen penetration, Lake Superior. Limnol. Oceanogr. 57:1634-1650 [(Link)](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.2012.57.6.1634)
-###_Book Chapters_
+
+### _Theses_
+- J. LI (2014) Sediment diagenesis in large lakes Superior and Malawi, geochemical cycles and budgets and comparison to marine sediments. Ph.D Thesis. University of Minnesota [(Link)](https://drive.google.com/file/d/10CF7WcwmcOKvTW2SEN_zcsfruEGr4IRP/view)
+- J. LI (2011) Diagenesis and sediment-water exchanges in organic-poor sediments of Lake Superior. M. Sc. Thesis. University of Minnesota [(Link)](https://drive.google.com/file/d/10CF7WcwmcOKvTW2SEN_zcsfruEGr4IRP/view)
+
+### _Book Chapters_
 - Katsev S., Verburg P., Lliros M., Minor E., Kruger B., and Li J.. 2017. Tropical meromictic lakes: Specifics of meromixis and case studies of Lakes Tanganyika, Malawi, and Matano. In Ecology of Meromictic Lakes, edited by R. Gulati, A. Degermendzhy, and E. Zadereev. Springer. [(PDF)](https://www.researchgate.net/profile/Sergei_Katsev/publication/313904856_Tropical_Meromictic_Lakes_Specifics_of_Meromixis_and_Case_Studies_of_Lakes_Tanganyika_Malawi_and_Matano/links/5ac3b6c2aca27218eabc0a05/Tropical-Meromictic-Lakes-Specifics-of-Meromixis-and-Case-Studies-of-Lakes-Tanganyika-Malawi-and-Matano.pdf?_sg%5B0%5D=_j5laNEjoh4-qWzUggS8E26aV8uVEzLMA4qCk6JFM8pPFCRU4nnTGiYhCJEftQ1VSyHsN-amQvKttrUBhoqmbA.fHq57bX8uV7X5sq04P4vum8vLPz7uRON8tvnBuFmWQIpdNb1_0Hum1Sxpz6NVjKZUYbAzqjY8_TRiCtf23TxKQ&_sg%5B1%5D=sBLmBOrfD5oK_NheqEajbmVyHc5gp_CDBY4ZcFbWPjW0dCAAKuPgLf-L8Cn42042yXrlKCeUXhFQIIjw2dmGSgylLYXpYWIq-uzqsjanDs0P.fHq57bX8uV7X5sq04P4vum8vLPz7uRON8tvnBuFmWQIpdNb1_0Hum1Sxpz6NVjKZUYbAzqjY8_TRiCtf23TxKQ&_iepl=)
 
 ### _Presentations_                                                      
