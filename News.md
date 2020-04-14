@@ -1,6 +1,6 @@
 ### [**Home**](README.md)  /  [**Research**](Research.md)  /  [**Teaching**](Teaching.md)   /  [**Publications**](Publications.md)  /  [**Join us**](Joinus.md)  /  [**News**](News.md) 
 ---
-### News
+## News
 
 12.17.2019 - Our paper Li et al. "Picoplankton accumulate and recycle polyphosphate to support high primary productivity in coastal Lake Ontario" is now published in **_Scientific Reports_** [(link)](https://www.nature.com/articles/s41598-019-56042-5)
 
