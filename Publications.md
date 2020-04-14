@@ -1,5 +1,6 @@
 ### [**Home**](README.md)  /  [**Research**](Research.md)  /  [**Teaching**](Teaching.md)   /  [**Publications**](Publications.md)  /  [**Join us**](Joinus.md)  /  [**News**](News.md) 
 ---
+## Publications
 ### _Peer-reviewed Journals_
 - Li, J., D. Plouchart, A. Zastepa and M. Dittrich. 2019. Picoplankton accumulate and recycle polyphosphate to support high primary productivity in coastal Lake Ontario. Scientific Reports 9: 19563 [(PDF)](https://www.nature.com/articles/s41598-019-56042-5.pdf)
 - Li, J. and M. Dittrich. 2019. Dynamic polyphosphate metabolism in cyanobacteria responding to phosphorus availability. Environmental Microbiology : doi:10.1111/1462-2920.14488 [(Link)](https://www.researchgate.net/publication/329189642_Dynamic_polyphosphate_metabolism_in_cyanobacteria_responding_to_phosphorus_availability)
