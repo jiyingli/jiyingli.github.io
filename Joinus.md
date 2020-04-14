@@ -1,6 +1,6 @@
 ### [**Home**](README.md)  /  [**Research**](Research.md)  /  [**Teaching**](Teaching.md)   /  [**Publications**](Publications.md)  /  [**Join us**](Joinus.md)  /  [**News**](News.md) 
 ---
-
+## Join Us
 We are seeking creative and self-motivated students to join our team at the Department of Ocean Science (OCES), Hong Kong University of Science and Technology (HKUST). 
 If you are interested in join us, please do not hesitate to contact me via [email](mailto:lixx0590@d.umn.edu).
 
