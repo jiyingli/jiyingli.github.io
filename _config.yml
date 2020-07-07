@@ -1,2 +1,13 @@
 theme: jekyll-theme-minimal
 description: Welcome to the Aquatic Biogeochemistry Lab at the Hong Kong University of Science and Technology. We study the exchange and transformation of elements in lakes and oceans.
+
+navbar-links:
+  Home: "aboutme"
+  Research: "https://jiyingli.github.io/Research.html"
+ #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+ #   - Learn markdown: "https://www.markdowntutorial.com/"
+  Teaching: "https://jiyingli.github.io/Teaching.html"
+  Publications: "https://jiyingli.github.io/Publications.html"
+  News: "https://jiyingli.github.io/News.html"
+  Join us: "https://jiyingli.github.io/Joinus.html"
+  
