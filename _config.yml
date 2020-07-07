@@ -4,8 +4,6 @@ description: Welcome to the Aquatic Biogeochemistry Lab at the Hong Kong Univers
 navbar-links:
   Home: "aboutme"
   Research: "https://jiyingli.github.io/Research.html"
-  #   - Beautiful Jekyll: "https://beautifuljekyll.com" #
-  #   - Learn markdown: "https://www.markdowntutorial.com/" #
   Teaching: "https://jiyingli.github.io/Teaching.html"
   Publications: "https://jiyingli.github.io/Publications.html"
   News: "https://jiyingli.github.io/News.html"
