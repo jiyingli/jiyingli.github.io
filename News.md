@@ -2,6 +2,14 @@
 ---
 ## News
 
+09.07.2020 - Jing Sun join us as a PhD student. Welcome, Jing! 
+
+09.10.2020 - Samrat's paper Alam et al. "Geochemical controls on phosphorus internal loading in Lake of the Woods" is accepted for publication in Chemical Geology. 
+
+08.02.2020 - Lei Zhou join us as a Mphil student. Welcome, Lei! 
+
+07.02.2020 - Jiying Join the Department of Ocean Sciences at the Hong Kong University of Science and Technology. 
+
 12.17.2019 - Our paper Li et al. "Picoplankton accumulate and recycle polyphosphate to support high primary productivity in coastal Lake Ontario" is now published in **_Scientific Reports_** [(link)](https://www.nature.com/articles/s41598-019-56042-5)
 
 06.10.2019 -06.14.2019 - Vadym and Jiying presented our work on how invasive quagga mussels impact sediment and water geochemistry of the Great Lakes at the IAGLR 2019 meeting at SUNY Brockport, NY. 
