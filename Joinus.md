@@ -7,7 +7,7 @@ To inquire, please contact me via [email](mailto:lixx0590@d.umn.edu).
 ### Graduate Students (PhD, MPhil)
 We welcome graduate student (MPhil and PhD) to join us to study aquatic biogeochemistry. 
 
-The students will join the Postgraduate Program at the Department of Ocean Science at HKUST, with financial support via Student Scholarships. You you will receive multidisciplinary trainings in physical, chemical and biological aspects of marine (aquatic) science and use diverse research approaches including field measurements, laboratory experiments and analyses, and numerical modeling. 
+The students will join the Postgraduate Program at the Department of Ocean Science at HKUST, with financial support via Student Scholarships. You will receive multidisciplinary trainings in physical, chemical and biological aspects of marine (aquatic) science and use diverse research approaches including field measurements, laboratory experiments and analyses, and numerical modeling. 
 
 We encourage applicants with strong chemistry (or geochemistry, environmental chemistry or other relevant) background to apply. Prior training in geoscience is NOT required, but you should have strong interests in mulitidisciplinary research. Solid understanding in physics and good mathematical skills (college level) are strongly desired. 
 
