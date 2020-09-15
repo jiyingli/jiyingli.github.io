@@ -2,7 +2,7 @@
 ---
 ## Join Us
 We welcome creative and self-motivated students and postdocs to join our team. 
-If you are interested in join us, please do not hesitate to contact me via [email](mailto:lixx0590@d.umn.edu).
+To inquire, please contact me via [email](mailto:lixx0590@d.umn.edu).
 
 ### Graduate Students (PhD, MPhil)
 We welcome graduate student (MPhil and PhD) to join us to study aquatic biogeochemistry. 
