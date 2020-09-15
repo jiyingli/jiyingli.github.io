@@ -2,7 +2,7 @@
 ---
 ## Publications
 ### _Peer-reviewed Journals_
-- Alam, M. S., B. Barthod, J. Li, H. Liu, A. Zastepa, X.Liu, and M. Dittrich, Geochemical controls on phosphorus internal loading in Lake of the Woods, _Chemical Geology_ (Accepted)
+- Alam, M. S., B. Barthod, J. Li, H. Liu, A. Zastepa, X.Liu, and M. Dittrich. 2020. Geochemical controls on phosphorus internal loading in Lake of the Woods, _Chemical Geology_, 119873
 - Li, J., D. Plouchart, A. Zastepa and M. Dittrich. 2019. Picoplankton accumulate and recycle polyphosphate to support high primary productivity in coastal Lake Ontario. _Scientific Reports_ 9: 19563 [(PDF)](https://www.nature.com/articles/s41598-019-56042-5.pdf)
 - Li, J. and M. Dittrich. 2019. Dynamic polyphosphate metabolism in cyanobacteria responding to phosphorus availability. Environmental Microbiology : doi:10.1111/1462-2920.14488 [(Link)](https://www.researchgate.net/publication/329189642_Dynamic_polyphosphate_metabolism_in_cyanobacteria_responding_to_phosphorus_availability)
 - Li, J., Y. Zhang, and S. Katsev. 2018. Phosphorous recycling in deeply oxygenated sediments in Lake Superior controlled by organic matter mineralization. _Limnology and Oceanography_. 63: 1372- 1385 [(Link)](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.10778)
