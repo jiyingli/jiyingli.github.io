@@ -2,11 +2,11 @@
 ---
 ## News
 
-09.07.2020 - Jing Sun join us as a PhD student. Welcome, Jing! 
+09.07.2020 - Jing Sun joins us as a PhD student. Welcome, Jing! 
 
 09.10.2020 - Samrat's paper Alam et al. "Geochemical controls on phosphorus internal loading in Lake of the Woods" is accepted for publication in Chemical Geology. 
 
-08.02.2020 - Lei Zhou join us as a Mphil student. Welcome, Lei! 
+08.02.2020 - Lei Zhou joins us as a Mphil student. Welcome, Lei! 
 
 07.02.2020 - Jiying Join the Department of Ocean Sciences at the Hong Kong University of Science and Technology. 
 
