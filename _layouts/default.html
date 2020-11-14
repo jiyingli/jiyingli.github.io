@@ -53,6 +53,7 @@
       {{ content }}
 
       </section>
+      
        <!-- Sidebar/menu -->
       <div class="sidenav">
          <a href="#about">About</a>
@@ -68,6 +69,21 @@
              <a href="#">Link 3</a>
          </div>   
          <a href="#contact">Search</a>
+         <style>
+            /* Fixed sidenav, full height */
+           .sidenav {
+            height: 50%;
+            width: 150px;
+            position: fixed;
+            z-index: 1;
+            top: 10;
+            left: 0;
+            background-color: #111;
+            overflow-x: hidden;
+            padding-top: 20px;
+         }
+        </style>  
+
       </div>
       
     </div>
