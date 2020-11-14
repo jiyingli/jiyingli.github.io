@@ -1,6 +1,6 @@
-### [**Home**](README.md)  /  [**Research**](Research.md)  /  [**Teaching**](Teaching.md)   /  [**Publications**](Publications.md)  /  [**Join us**](Joinus.md)  /  [**News**](News.md) 
+### [**Home**](jiyingli.github.io/README.md)  /  [**Research**](jiyingli.github.io/Research.md)  /  [**Teaching**](jiyingli.github.io/Teaching.md)   /  [**Publications**](Publications.md)  /  [**Join us**](jiyingli.github.io/Joinus.md)  /  [**News**](jiyingli.github.io/News.md) 
 ---
-## Publications2
+## Publications
 ### _Peer-reviewed Journals_
 - Bai, Y., L. Stout, G. Unai-Tosun, J. Li and D. Jaisi. Synthesis and degradation of polyphosphate: Isotope effects in enzyme- and bacteria- catalyzed reactions. ACS Earth and Space Chemistry (Accepted).
 - Alam, M. S., B. Barthod, J. Li, H. Liu, A. Zastepa, X.Liu, and M. Dittrich. 2020. Geochemical controls on phosphorus internal loading in Lake of the Woods, _Chemical Geology_, 119873 [(Link)](https://www.sciencedirect.com/science/article/pii/S0009254120304125)
