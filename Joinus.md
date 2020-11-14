@@ -19,8 +19,8 @@ Please refer to the HKUST website for more information about the [University](ht
 We welcome undergraduate students to engage in our research. Please see the [Undergraduate Research Opportunities Program](https://urop.ust.hk/) (UROP) for more information. Get in touch with us if you would like to discuss potential projects in our lab, or are motivated to propose your own research idea.
 
 ### Research Assistant 
-Funded Postdoctoral and Research Assistant opportunities will be advertised as they become available. 
+Funded Research Assistant opportunities will be advertised as they become available. 
 
 ### Postdoctoral Researcher 
 We welcome enquiries from Postdoctoral Scholars. We encourage interested individuals to get in touch to begin discussing possible projects and funding sources. 
-Postdocs & Research Assistants
+
