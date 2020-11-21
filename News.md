@@ -17,7 +17,7 @@
 
 06.10.2019 -06.14.2019 - Vadym and Jiying presented our work on how invasive quagga mussels impact sediment and water geochemistry of the Great Lakes at the IAGLR 2019 meeting at SUNY Brockport, NY. 
 
-06.03.2019 - Jiying's paper "Sediment geochemistry and contributions to carbon and nutrient cycling in a deep meromictic tropical lake: Lake Malawi (East Africa)" is awarded the **_Elsevier Early Career/Young Scientist Most Notable Paper Award_** given annually by the International Association for Great Lakes Research! 
+06.03.2019 - Jiying's paper "Sediment geochemistry and contributions to carbon and nutrient cycling in a deep meromictic tropical lake: Lake Malawi (East Africa)" is awarded the **_Early Career/Young Scientist Most Notable Paper Award_** given annually by the International Association for Great Lakes Research! 
 
 05.21.2019- 06.02.2019 - We successfully completed our research expedition on Lakes Superior, Michigan, and Huron studying the invasive mussels impacting sediment geochemistry and nutrient exchanges! We sampled 9 primary stations including transects (shallow to deep sites), despite a day of hiding from storms in Houghton, MI (museum, bakery and bars). See this [short video](https://www.youtube.com/watch?v=YZbmzUOt5PQ&feature=youtu.be) about what we are doing!
 
