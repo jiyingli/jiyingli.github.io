@@ -5,7 +5,7 @@
 
 09.21.2020 - Xingyu Yang Joins us a Research Assistant. Welcome, Xingyu! 
 
-09.10.2020 - Samrat's paper Alam et al. "Geochemical controls on phosphorus internal loading in Lake of the Woods" is accepted for publication in **_Chemical Geology_**. 
+09.10.2020 - Samrat's paper Alam et al. "Geochemical controls on phosphorus internal loading in Lake of the Woods" is published in **_Chemical Geology_** [(link)](https://www.sciencedirect.com/science/article/pii/S0009254120304125)
 
 09.07.2020 - Jing Sun joins us as a PhD student. Welcome, Jing! 
 
