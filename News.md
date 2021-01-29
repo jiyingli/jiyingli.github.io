@@ -1,7 +1,7 @@
 ### [**Home**](README.md)  /  [**Research**](Research.md)  /  [**Teaching**](Teaching.md)   /  [**Publications**](Publications.md)  /  [**Join us**](Joinus.md)  /  [**News**](News.md) 
 ---
 ## News
-1.25.2021 - Our paper Li et al. "Benthic invaders control the phosphorus cycle in the world's largest freshwater ecosystem" is now published in **_Proceedings of the National Academy of Sciences_** [(link)](https://www.pnas.org/content/118/6/e2008223118).
+1.25.2021 - Our paper Li et al. "Benthic invaders control the phosphorus cycle in the world's largest freshwater ecosystem" is now published in **_Proceedings of the National Academy of Sciences_** [(link)](https://www.pnas.org/content/118/6/e2008223118). [(News Brief)](https://twin-cities.umn.edu/news-events/invasive-mussels-now-control-key-nutrient-american-great-lakes)
 
 09.21.2020 - Xingyu Yang Joins us a Research Assistant. Welcome, Xingyu! 
 
