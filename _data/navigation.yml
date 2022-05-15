@@ -1,13 +1,18 @@
 main:
   - title: "Home"
     url: /home/
+    
   - title: "Research"
     url: /research/
+    
   - title: "Teaching"
     url: /teaching/
+    
   - title: "Publications"
     url: /publications/
+    
   - title: "Join us"
     url: /joinus/
+    
   - title: "News"
     url: /news/
