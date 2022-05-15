@@ -1,30 +1,16 @@
      <!-- This is a comment -->
----
-layout: compress
----
-
-{% if site.url %}
-  {% assign base_path = site.url | append: site.baseurl %}
-{% else %}
-  {% assign base_path = site.github.url %}
-{% endif %}
 
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-   {% include seo.html %}
-   
+  
     <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed"> 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
-   <!-- <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}"> -->
-   
-
-    <!-- For all browsers -->
- <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+   <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}"> 
     <meta http-equiv="cleartype" content="on">
  
   </head>
@@ -36,7 +22,7 @@ layout: compress
           <img src="/Jiying.png" alt="Jiying" width="200">
           <h3>Jiying Li</h3>
           <p>{{ site.description | default: site.github.project_tagline }}</p>    
-       <!-- <p> We have <a href="https://jiyingli.github.io/jobpost.pdf"><span style='color:red'>positions open</span></a> for graduate students! Please get in touch if you are interested. </p> -->
+        <p> We have a <a href="https://jiyingli.github.io/jobpost.pdf"><span style='color:red'> osition open</span></a> for Research Assistant! </p> 
          <style>   
             p.small {
                 line-height: 0.7;
@@ -63,27 +49,7 @@ layout: compress
         
       </header>
          
- <div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-  </div>
-</div>
+
          
       <section>
 
