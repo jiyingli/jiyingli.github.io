@@ -1,6 +1,15 @@
 ### [**Home**](README.md)  /  [**Research**](Research.md)  /  [**Teaching**](Teaching.md)   /  [**Publications**](Publications.md)  /  [**Join us**](Joinus.md)  /  [**News**](News.md) 
 ---
 ## News
+
+5.17.2022 - Xingyu presents his work "Polyphosphate in the plankton of the oligotrophic Great Lakes" at the Joint Aquatic Science Meeting (Grand Rapids, MN, US). Some funs are missing for a virtual meeting (we are staying in HK), but on the bright side it is environmental and introvert friendly...
+
+9.1.2021 - Xingyu finished his RA term and now joins us as a PhD student. We have two new members Yuxuan Lin and Rixuan Gao joining in as Mphil students; Welcome Rixuan, Yuxuan, and Xingyu! 
+
+7.1.2021 - Jiying receives her first RGC grant (Research Grant Council Early Career Scheme) to study polyphosphate dynamics in coastal oceans. 
+
+06.2.2021- 07.10.2021 - We survive the research cruises aboard the _R/V Haike 68_ in the Pearl River Estuary and along the coastal shelf waters in the Northern South China Sea. We sampled more than 20 stations for both sediments and water. This is the first cruise for Jing, Lei, and Xingyu, and also Jiying's first cruise in this part of the globe. Cyclones are no fun; sunsets are delightful; feets on the ground (literally) again reminds us of happiness being simple..
+
 1.25.2021 - Our paper Li et al. "Benthic invaders control the phosphorus cycle in the world's largest freshwater ecosystem" is now published in **_Proceedings of the National Academy of Sciences_** [(link)](https://www.pnas.org/content/118/6/e2008223118). [(News Brief)](https://twin-cities.umn.edu/news-events/invasive-mussels-now-control-key-nutrient-american-great-lakes)
 
 09.21.2020 - Xingyu Yang Joins us a Research Assistant. Welcome, Xingyu! 
