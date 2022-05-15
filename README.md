@@ -1,4 +1,4 @@
-### [**Home**](README.md)  /  [**Research**](Research.md)  /  [**Teaching**](Teaching.md)   /  [**Publications**](_publications/Publications.md)  /  [**Join us**](_pages/Joinus.md)  /  [**News**](News.md) 
+### [**Home**](README.md)  /  [**Research**](Research.md)  /  [**Teaching**](Teaching.md)   /  [**Publications**](Publications.md)  /  [**Join us**](_pages/Joinus.md)  /  [**News**](News.md) 
 ---
 
 # Aquatic Biogeochemistry
