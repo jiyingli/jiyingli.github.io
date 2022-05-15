@@ -7,11 +7,5 @@ title_separator          : "-"
 name                     : &name "Jiying Li"
 description: Welcome to my website. I am an aquatic geochemist studying the exchange and transformation of elements in lakes and oceans. I currently work at the Department of Ocean Science, Hong Kong University of Science and Technology as an Assistant Professor. 
 url                      : https://jiyingli.github.io 
-# teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 
-# Site Author
-# author:
-  #name             : "Jiying Li" #
-  #avatar           : "Jiying2.JPG"
-  #location         : "Hong Kong"
   
