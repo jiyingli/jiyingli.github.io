@@ -10,8 +10,8 @@ url                      : https://jiyingli.github.io
 # teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 
 # Site Author
-author:
-  name             : "Jiying Li" #
-  avatar           : "Jiying2.JPG"
-  location         : "Hong Kong"
+# author:
+  #name             : "Jiying Li" #
+  #avatar           : "Jiying2.JPG"
+  #location         : "Hong Kong"
   
