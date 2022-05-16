@@ -2,12 +2,14 @@
 ---
 ## Join Us
 
-<span style="color:green;font-weight:700;font-size:20px">
-We have Research Assistant position open!
- </span>
+#### We have <ins>**Research Assistant**</ins> position open!
 Major duties include assisting in field and laboratory work and management of equipment. Please see more details and application procedures [here](/RApost.pdf). 
 
 
+
+
+
+---
 We always welcome creative and self-motivated students and postdocs to join our team. 
 To inquire, please contact me via [email](mailto:lixx0590@d.umn.edu).
 
