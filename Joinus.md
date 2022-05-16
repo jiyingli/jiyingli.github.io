@@ -7,9 +7,9 @@ To inquire, please contact me via [email](mailto:lixx0590@d.umn.edu).
  <br/><br/>
   
 ### Research Assistant 
-We have <ins>[Research Assistant](RApost.pdf)</ins> <span style="color:red"> position open</span>!
+We have <ins>[Research Assistant](/files/RApost.pdf)</ins> <span style="color:red"> position open</span>!
 
-Major duties include assisting in field and laboratory work and management of equipment. Please see more details and application procedures [here](/RApost.pdf). 
+Major duties include assisting in field and laboratory work and management of equipment. Please see more details and application procedures [here](/files/RApost.pdf). 
 
 ### Graduate Students (PhD, MPhil)
 We welcome graduate student (MPhil and PhD) to join us to study aquatic biogeochemistry. 
