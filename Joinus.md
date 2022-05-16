@@ -2,11 +2,12 @@
 ---
 ## Join Us
 
-We always welcome creative and self-motivated students, postdocs, visiting researchers to join our team. 
+We always welcome creative and self-motivated students, postdocs, and visiting researchers to join our team. 
 To inquire, please contact me via [email](mailto:lixx0590@d.umn.edu).
-
+ <br/><br/>
+  
 ### Research Assistant 
-We have <span style="color:green"> *Research Assistant* </span> position open!
+We have <span style="color:green"> <ins>**Research Assistant**</ins> </span> position open!
 Major duties include assisting in field and laboratory work and management of equipment. Please see more details and application procedures [here](/RApost.pdf). 
 
 ### Graduate Students (PhD, MPhil)
