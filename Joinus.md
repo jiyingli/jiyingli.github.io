@@ -1,10 +1,15 @@
 ### [**Home**](README.md)  /  [**Research**](Research.md)  /  [**Teaching**](Teaching.md)   /  [**Publications**](Publications.md)  /  [**Join us**](Joinus.md)  /  [**News**](News.md) 
 ---
 ## Join Us
-We welcome creative and self-motivated students and postdocs to join our team. 
-To inquire, please contact me via [email](mailto:lixx0590@d.umn.edu).
 
-### We have Research Assistant position open!
+<span style="color:green;font-weight:700;font-size:20px">
+We have Research Assistant position open!
+ </span>
+Major duties include assisting in field and laboratory work and management of equipment. Please see more details and application procedures [here](/RApost.pdf). 
+
+
+We always welcome creative and self-motivated students and postdocs to join our team. 
+To inquire, please contact me via [email](mailto:lixx0590@d.umn.edu).
 
 ### Graduate Students (PhD, MPhil)
 We welcome graduate student (MPhil and PhD) to join us to study aquatic biogeochemistry. 
