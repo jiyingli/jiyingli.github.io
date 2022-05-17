@@ -2,7 +2,7 @@
 ---
 ## Publications
 ### _Peer-reviewed Journals_
-- Li, J., V. Ianaiev, A. Huff, J. Zalusky, T. Ozersky, and S. Katsev. Benthic invaders control the phosphorus cycle in the world's largest freshwater ecosystem. _Proceedings of the National Academy of Sciences of the United States of America_ (Accepted).
+- Li, J., V. Ianaiev, A. Huff, J. Zalusky, T. Ozersky, and S. Katsev. Benthic invaders control the phosphorus cycle in the world's largest freshwater ecosystem. _Proceedings of the National Academy of Sciences of the United States of America_ 118(6) [(Link)](https://www.pnas.org/doi/10.1073/pnas.2008223118), PNAS [commentary](https://www.pnas.org/doi/10.1073/pnas.2100275118). 
 - Bai, Y., L. Stout, G. Unai-Tosun, J. Li and D. Jaisi. 2020. Synthesis and degradation of polyphosphate: Isotope effects in enzyme- and bacteria- catalyzed reactions. _ACS Earth and Space Chemistry_ [(Link)](https://pubs.acs.org/articlesonrequest/AOR-XS55PKJDQUE8XNAKSXXF).
 - Alam, M. S., B. Barthod, J. Li, H. Liu, A. Zastepa, X.Liu, and M. Dittrich. 2020. Geochemical controls on phosphorus internal loading in Lake of the Woods, _Chemical Geology_, 119873 [(Link)](https://www.sciencedirect.com/science/article/pii/S0009254120304125)
 - Li, J., D. Plouchart, A. Zastepa and M. Dittrich. 2019. Picoplankton accumulate and recycle polyphosphate to support high primary productivity in coastal Lake Ontario. _Scientific Reports_ 9: 19563 [(PDF)](https://www.nature.com/articles/s41598-019-56042-5.pdf)
