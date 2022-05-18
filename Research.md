@@ -3,6 +3,8 @@
 
 ## Current Directions and Projects 
 
+### Sediments geochemistry and benthic-pelagic coupling
+
 ### Benthic invaders shift geochemical regimes by impacting sediments 
 <img align="left" style="float: left; padding-right: 30px;" src="/images/mussels.png" width="240" height="180"> The invasion of dreissenid mussels (zebra mussels and quagga mussels) in the Laurentian Great Lakes has caused dramatic changes in the ecology and water chemistry. The impacts of mussels on sediments remain unclear. We survey the lake floor of upper Great Lakes (Lakes Superior, Michigan, and Huron), characterize sediment geochemistry and mussel physiology, and investigate the impacts of mussels on  exchanges of elements at the sediment-water interface. We develop a whole-system mass-balance model to quantify the mussels' impact on ecosystem scale, and predict the geochemical trajectory of invaded systems. 
 
