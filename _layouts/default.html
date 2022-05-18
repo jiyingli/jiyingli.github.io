@@ -14,13 +14,8 @@
   </head>
 
   <body>
-   <div id="navbar">
-  <a class="active" href="javascript:void(0)">Home</a>
-  <a href="javascript:void(0)">News</a>
-  <a href="javascript:void(0)">Contact</a>
-  </div>
        
-    <div class="wrapper">
+   <div class="wrapper">
       <header>
            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> 
            <h3>Aquatic Geochem @HKUST</h3> 
@@ -45,6 +40,12 @@
         <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-1677-6922" href="https://orcid.org/0000-0003-1677-6922" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0003-1677-6922</a></div>
       </header>
                
+      <!--  <div id="navbar"> -->
+      <!--  <a class="active" href="javascript:void(0)">Home</a> -->
+      <!--  <a href="javascript:void(0)">News</a> -->
+      <!--  <a href="javascript:void(0)">Contact</a> -->
+      <!--  </div> -->
+        
       <section>
 
       {{ content }}
