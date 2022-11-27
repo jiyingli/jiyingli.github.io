@@ -12,7 +12,6 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 
-# 
 # Site Author
 author:
   name             : "Jiying Li"
