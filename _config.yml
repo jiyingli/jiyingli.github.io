@@ -7,8 +7,3 @@ title_separator          : "-"
 name                     : &name "Jiying Li"
 description: Welcome to Jiying's website. We study the exchange and transformation of elements in lakes and oceans. 
 url                      : https://jiyingli.github.io 
-
-# Reading Files
-include:
-  - _pages
-  - files
