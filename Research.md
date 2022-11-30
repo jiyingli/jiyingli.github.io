@@ -1,3 +1,10 @@
+---
+title: Research
+layout: default
+nav: Home Research Teaching Publications Join News
+---
+
+
 ### [**Home**](README.md)  /  [**Research**](Research.md)  /  [**Teaching**](Teaching.md)   /  [**Publications**](Publications.md)  /  [**Join us**](/_pages/Joinus.md)  /  [**News**](News.md) 
 ---
 
