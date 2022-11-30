@@ -2,6 +2,7 @@
 title: Research
 layout: default
 nav: Home Research Teaching Publications Join News
+navMenu: true
 ---
 
 
