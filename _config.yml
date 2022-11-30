@@ -10,6 +10,5 @@ url                      : https://jiyingli.github.io
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
   - files
