@@ -1,4 +1,4 @@
-### [**Home**](README.md)  /  [**Research**](research.md)  /  [**Teaching**](teaching.md)   /  [**Publications**](publications.md)  /  [**Join us**](joinus.md)  /  [**News**](news.md) 
+### [**Home**](../README.md)  /  [**Research**](research.md)  /  [**Teaching**](teaching.md)   /  [**Publications**](publications.md)  /  [**Join us**](joinus.md)  /  [**News**](news.md) 
 ---
 ## Publications
 ### _Peer-reviewed Journals_
