@@ -1,6 +1,3 @@
----
-permalink: /joinus/
----
 
 ## Join Us
 
