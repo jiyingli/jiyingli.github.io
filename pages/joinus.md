@@ -26,7 +26,3 @@ We have a postdoc position open. The [postdoctoral scholarship](https://core-hkm
 ### Undergraduate students 
 We welcome undergraduate students to engage in our research. Please see the [Undergraduate Research Opportunities Program](https://urop.ust.hk/) (UROP) for more information. Get in touch with us if you would like to discuss potential projects in our lab, or are motivated to propose your own research idea. 
 
-### Research Assistant 
-We have <ins>[Research Assistant](/files/RApost.pdf)</ins> <span style="color:red"> position open</span>!
-
-Major duties include assisting in field and laboratory work and management of equipment. Please see more details and application procedures [here](/files/RApost.pdf). 
