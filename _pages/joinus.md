@@ -2,7 +2,7 @@
 permalink: /joinus/
 ---
 
-### [**Home**](README.md)  /  [**Research**](Research.md)  /  [**Teaching**](Teaching.md)   /  [**Publications**](Publications.md)  /  [**Join us**](Joinus.md)  /  [**News**](News.md) 
+### [**Home**](README.md)  /  [**Research**](Research.md)  /  [**Teaching**](Teaching.md)   /  [**Publications**](Publications.md)  /  [**Join us**](joinus.md)  /  [**News**](News.md) 
 ---
 ## Join Us
 
