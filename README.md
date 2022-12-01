@@ -1,4 +1,4 @@
-### [**Home**](README.md) / [**Research**](Research.md) / [**Teaching**](Teaching.md) / [**Publications**](Publications.md) / [**Join us**](pages/joinus.md) / [**News**](News.md) 
+### [**Home**](README.md) / [**Research**](pages/research.md) / [**Teaching**](pages/teaching.md) / [**Publications**](pages/publications.md) / [**Join us**](pages/joinus.md) / [**News**](pages/news.md) 
 ---
 
 # About Us
@@ -16,5 +16,5 @@ Sediments receive materials from the water column. In sediments, materials under
 
 Life conveys energy and elements and shapes the chemistry of aquatic systems; biological activities, at the same time, are controled by geochemistry, the availability of life-supporting elements. We are interested in these interactions. Our present research topics include 1) nutrient storage mechanisms in phytoplankton, and 2) phosphorus speciation controled by microbial activities. 
 
-#### See [here](Research.md) for specific projects
+#### See [here](/pages/research.md) for specific projects
 
