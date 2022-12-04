@@ -2,11 +2,19 @@
 ---
 ## News
 
-5.17.2022 - Xingyu presents his work "Polyphosphate in the plankton of the oligotrophic Great Lakes" at the Joint Aquatic Science Meeting (Grand Rapids, MN, US). Some funs are missing for a virtual meeting (we are staying in HK), but on the bright side it is environmental and introvert friendly...
+10.19.2022 - Samples from Haima methane seeps and Pinping Lagoon are escorted back to Hong Kong! Welcome back Jing and Yuxuan, and a new members Xiaotian Zhou joining us a Research Assistant. Welcome, Xiaotian!
+
+10.14.2022 - Jing and Yuxuan sample water and sediments in Pinqing Lagoon (the largest lagoon in China and second largest in Asia). We are "excited" to see a positive N<sub>2</sub>O gradient down core (N<sub>2</sub>O fluxes out from sediments into the water column), which is contrary to what we saw in other loacations (e.g., deep sea, coastal sediments arond HK). 
+
+9.30.2022 - Jing and Yuxuan is back on land from a research cruise to the South China Sea for sampling sediments from the Haima methane seeps, after nearly two months of hardwork (and covid dramma of crossing the border, quarantining, lockdown anxiety, and others). They have sampled sediments at three seep sites with distinct geochemistry (CH<sub>4</sub> vs H<sub>2</sub>S) and benthic biology (deep-sea mussels and clams _Archivesica marissinica_).
+
+7.1.2022 - Jiying receives a RGC-GRF Grant (Research Grant Council General Research Funding Grant) to study phosphorus cycling and fluxes in the sediments of coastal waters in Hong Kong (Jan 2023- Dec 2025). 
+
+5.17.2022 - Xingyu presents our work "Polyphosphate in the plankton of the oligotrophic Great Lakes" at the Joint Aquatic Science Meeting (Grand Rapids, MN, US). Some funs are missing for a virtual meeting (we are staying in HK), but on the bright side it is environmental and introvert friendly...
 
 9.1.2021 - Xingyu finished his RA term and now joins us as a PhD student. We have two new members Yuxuan Lin and Rixuan Gao joining in as Mphil students; Welcome Rixuan, Yuxuan, and Xingyu! 
 
-7.1.2021 - Jiying receives her first RGC grant (Research Grant Council Early Career Scheme) to study polyphosphate dynamics in coastal oceans. 
+7.1.2021 - Jiying receives her first RGC-ECS Grant (Research Grant Council Early Career Scheme Grant) to study polyphosphate dynamics in coastal oceans (Jan 2022 - Dec 2024). 
 
 06.2.2021- 07.10.2021 - We survive the research cruises aboard the _R/V Haike 68_ in the Pearl River Estuary and along the coastal shelf waters in the Northern South China Sea. We sampled more than 20 stations for both sediments and water. This is the first cruise for Jing, Lei, and Xingyu, and also Jiying's first cruise in this part of the globe. Cyclones are no fun; sunsets are delightful; feets on the ground (literally) again reminds us of happiness being simple..
 
@@ -42,7 +50,7 @@
 
 01.03.2018 -- Li et al paper "Sediment geochemistry and contributions to carbon and nutrient cycling in a deep meromictic tropical lake: Lake Malawi (East Africa)" is published in the **_Journal of Great Lakes Research_**.
 
-11.29.2017 -- It cools to just a few degrees above zero in Toronto, to celebrate the last day of water sampling on Hamilton Harbor, Lake Ontario. Read more about the Hamilton Harbor work
+11.29.2017 -- It cools to just a few degrees above zero in Toronto, to celebrate the last day of water sampling on Hamilton Harbor, Lake Ontario. 
 
 10.23.2017 -- Crowe et al paper "Novel anammox bacteria and nitrogen loss from Lake Superior" is published on **_Scientific Reports_**.
 
