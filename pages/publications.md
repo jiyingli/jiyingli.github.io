@@ -2,7 +2,9 @@
 ---
 ## Publications
 ### _Peer-reviewed Journals_
-- Li, J., V. Ianaiev, A. Huff, J. Zalusky, T. Ozersky, and S. Katsev. Benthic invaders control the phosphorus cycle in the world's largest freshwater ecosystem. 2021 _Proceedings of the National Academy of Sciences of the United States of America_ 118(6) [(Link)](https://www.pnas.org/doi/10.1073/pnas.2008223118), PNAS [commentary](https://www.pnas.org/doi/10.1073/pnas.2100275118). 
+- Yin, H., M. Zhang, P. Yin, and J. Li. Characterization of internal phosphorus loading in the sediment of a large eutrophic lake (Lake Taihu, China). 2022. _Water Research_ 225, 119125 [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135422010715?pes=vor)
+- Yang, C., J. Li, and H. Yin. Phosphorus internal loading and sediment diagenesis in a large eutrophic lake (Lake Chaohu, China). 2022. _Environmental Pollution_ 292, 118471 [(Link)](https://www.sciencedirect.com/science/article/pii/S0269749121020534?via%3Dihub)
+- Li, J., V. Ianaiev, A. Huff, J. Zalusky, T. Ozersky, and S. Katsev. Benthic invaders control the phosphorus cycle in the world's largest freshwater ecosystem. 2021. _Proceedings of the National Academy of Sciences of the United States of America_ 118(6) [(Link)](https://www.pnas.org/doi/10.1073/pnas.2008223118)
 - Bai, Y., L. Stout, G. Unai-Tosun, J. Li and D. Jaisi. 2020. Synthesis and degradation of polyphosphate: Isotope effects in enzyme- and bacteria- catalyzed reactions. _ACS Earth and Space Chemistry_ [(Link)](https://pubs.acs.org/articlesonrequest/AOR-XS55PKJDQUE8XNAKSXXF).
 - Alam, M. S., B. Barthod, J. Li, H. Liu, A. Zastepa, X.Liu, and M. Dittrich. 2020. Geochemical controls on phosphorus internal loading in Lake of the Woods, _Chemical Geology_, 119873 [(Link)](https://www.sciencedirect.com/science/article/pii/S0009254120304125)
 - Li, J., D. Plouchart, A. Zastepa and M. Dittrich. 2019. Picoplankton accumulate and recycle polyphosphate to support high primary productivity in coastal Lake Ontario. _Scientific Reports_ 9: 19563 [(PDF)](https://www.nature.com/articles/s41598-019-56042-5.pdf)
@@ -23,7 +25,9 @@
 ### _Book Chapters_
 - Katsev S., Verburg P., Lliros M., Minor E., Kruger B., and Li J.. 2017. Tropical meromictic lakes: Specifics of meromixis and case studies of Lakes Tanganyika, Malawi, and Matano. In Ecology of Meromictic Lakes, edited by R. Gulati, A. Degermendzhy, and E. Zadereev. Springer. [(PDF)](https://www.researchgate.net/profile/Sergei_Katsev/publication/313904856_Tropical_Meromictic_Lakes_Specifics_of_Meromixis_and_Case_Studies_of_Lakes_Tanganyika_Malawi_and_Matano/links/5ac3b6c2aca27218eabc0a05/Tropical-Meromictic-Lakes-Specifics-of-Meromixis-and-Case-Studies-of-Lakes-Tanganyika-Malawi-and-Matano.pdf?_sg%5B0%5D=_j5laNEjoh4-qWzUggS8E26aV8uVEzLMA4qCk6JFM8pPFCRU4nnTGiYhCJEftQ1VSyHsN-amQvKttrUBhoqmbA.fHq57bX8uV7X5sq04P4vum8vLPz7uRON8tvnBuFmWQIpdNb1_0Hum1Sxpz6NVjKZUYbAzqjY8_TRiCtf23TxKQ&_sg%5B1%5D=sBLmBOrfD5oK_NheqEajbmVyHc5gp_CDBY4ZcFbWPjW0dCAAKuPgLf-L8Cn42042yXrlKCeUXhFQIIjw2dmGSgylLYXpYWIq-uzqsjanDs0P.fHq57bX8uV7X5sq04P4vum8vLPz7uRON8tvnBuFmWQIpdNb1_0Hum1Sxpz6NVjKZUYbAzqjY8_TRiCtf23TxKQ&_iepl=)
 
-### _Presentations_                                                      
+### _Presentations_ 
+(<sup>+</sup>student presenter from our lab)
+- <sup>+</sup>Yang, X. and J. Li. Polyphosphate in the plankton of the oligotrophic Great Lakes, Joint Aquatic Science Meeting, Grand Rapids, Michigan, USA, May 14-20, 2022 (Oral)
 - Li, J. V. Ianaiev, A. Huff, J. Zalusky, T. Ozersky, and S. Katsev. Benthic shunt: dreissenid mussels now control phosphorus dynamics in Lake Michigan. IAGLR Conference, Brockport, NY, USA, June 10-14, 2019 (Oral)
 - Li, J., A. Zastepa, S. Markovic, S. Watson, and M. Dittrich. Seasonal and spatial variability of polyphosphate in the water column of Hamilton Harbour. IAGLR Conference, Toronto- Scarborough ON, Canada, June 18- 22, 2018 (Oral)
 - Li, J., O. Kaskun, and M. Dittrich. Polyphosphate and intracellular Ca-carbonates in cyanobacteria in response to changing phosphorus levels. Geobiology Meeting, Banff AB, Canada. June 11- 14, 2017 (Poster)
