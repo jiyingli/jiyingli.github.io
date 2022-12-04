@@ -12,7 +12,7 @@ Sediments receive materials from the water column. In sediments, materials under
 2. how do sediment processes contribute to regional and global geochemical cycles in the long term, 
 3. and how can we use sediments to quantitatively reconstruct the past and predict the future biogeochemical conditions and trends.
 
-### - biological and geochemical interactions 
+### - Biological and geochemical interactions 
 
 Life conveys energy and elements and shapes the chemistry of aquatic systems; biological activities, at the same time, are controled by geochemistry, especially the availability of life-supporting elements. We are interested in these interactions. Our present interests include 
 1. phosphorus storage mechanisms in phytoplankton linked to nutrient variability  
