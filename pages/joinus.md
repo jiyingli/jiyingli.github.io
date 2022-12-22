@@ -1,6 +1,6 @@
 
 
-### [**Home**](../README.md)  /  [**Research**](research.md)  /  [**Teaching**](teaching.md) / [**People**](pages/people.md) /  [**Publications**](publications.md)  /  [**Join us**](joinus.md)  /  [**News**](news.md) 
+### [**Home**](../README.md)  /  [**Research**](research.md)  /  [**Teaching**](teaching.md) / [**People**](people.md) /  [**Publications**](publications.md)  /  [**Join us**](joinus.md)  /  [**News**](news.md) 
 ---
 ## Join Us
 
