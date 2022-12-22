@@ -3,6 +3,6 @@
 
 ## People 
 
-<img align="left" style="float: left; padding-right: 30px;" src="/images/jiying2.jpg" width="240" height="180"> 
+<img align="left" style="float: left; padding-right: 30px;" src="/images/jiying2.jpg" width="240"> 
 
 <br/><br/>
