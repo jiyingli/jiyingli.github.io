@@ -6,9 +6,8 @@
 **Jiying Li （黎吉映）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/jiying3.png" width="180"> \
 PhD. in Limnology and Oceanography, University of Minnesota (2014)\
 <br/>
-Assistant Professor\
+Assistant Professor，PI\
 Department of Ocean Science, The Hong Kong University of Science and Technology\
-Address: 5483 Academic Building, HKUST, Clear Water Bay, Kowloon, HK\
 Email: jiyingli@ust.hk\
 Tel.: +(852) 3469 2934
 <br/> <br/>
@@ -56,5 +55,6 @@ MPhil in Fishery Resources, Zhejiang Ocean University (2022)\
 <br/>
 Research Assistant\
 Email: zhouxiaotian@ust.hk\
-Tel.: +(852) 3469 2943
-<br/><br/><br/><br/>
+<br/>
+Xiaotian is working on sediment geochemistry. Her work before joining us focused on environmental organic chemistry, with previous projects on distribution and composition of microplastics in the coastal surface seawaters, and algal dissolved organic matter binding behavior with trace metals (e.g., Cu). 
+<br/><br/><br/>
