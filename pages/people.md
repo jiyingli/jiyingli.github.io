@@ -13,7 +13,7 @@ Email: jiyingli@ust.hk\
 Tel.: +(852) 3469 2934
 
 <br/><br/>
----
+----
 **Yuxuan Lin （林宇軒）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/Yuxuan.png" width="180"> \
 B.S. in Environmental Science, Xiamen University (2021)\
 <br/>
@@ -50,7 +50,7 @@ Email: jsunbk@connect.ust.hk\
 Tel.: +(852) 3469 2943
 <br/><br/><br/><br/>
 
----
+----
 **Xiaotian Zhou （周筱田）**   \
 MPhil in Fishery Resources, Zhejiang Ocean University (2022)\
 <br/>
