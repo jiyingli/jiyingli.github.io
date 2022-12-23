@@ -16,12 +16,12 @@ Tel.: +(852) 3469 2934
 **Yuxuan Lin （林宇軒）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/Yuxuan.png" width="180"> \
 B.S. in Environmental Science, Xiamen University (2021)\
 <br/>
-MPhil student (2021 - now)\ 
+MPhil student (2021 - now)\
 Marine environmental science, HKUST\
 Email: yuxuan.lin@connect.ust.hk\
 <br/>
 Yuxuan studies sediment biogeochemistry, focusing on the coupled cycles of carbon, phosphorus, iron, and sulfur. His study sites includes sediments coastal to pelagic ecosystems (mangroves, seagrass beds, lagoons, and coastal and deep seas).\
-<br/><br/>
+<br/>
 
 **Rixuan Gao （高日旋）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/rixuan.png" width="180"> \
 B.S. in Marine Science, Sun Yat-Sen University (2021)\
@@ -31,7 +31,7 @@ Marine Environmental Science, HKUST\
 Email: rgaoah@connect.ust.hk\
 <br/>
 Rixuan studies how marine heterotrophic bacteria accumulate and metabolize polyphosphate as a nutrient and/or energy reserve，using culture experiments of both pure baterial strains and natural communities harvested from coastal marine waters in Hong Kong.\
-<br/><br/>
+<br/>
 
 **Xingyu Yang （楊興宇）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/xingyu.png" width="180"> \
 MPhil in Life Science, The Hong Kong University of Science and Technology (2020)\
@@ -41,7 +41,7 @@ Marine Environmental Science, HKUST\
 Email: xyangbb@connect.ust.hk\
 <br/>
 Xingyu works on the cryptic cycles of polyphosphate (polyP) in aquatic ecosystems, including plankton polyP metabolisms and the roles of polyP on ecosystem-scale P cycling. His approaches include culture experiments and field studies of diverse systems including coastal and pelagic waters around Hong Kong, as well as the oligotrophic North American Great Lakes.
-<br/><br/>
+<br/>
 
 **Jing Sun （孫靜）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/jing2.png" width="180"> \
 M.S. in Environmental Science, Shanghai University (2020)\
@@ -51,7 +51,7 @@ Marine Environmental Science, HKUST\
 Email: jsunbk@connect.ust.hk\
 <br/>
 Jing works on sediment biogeochemistry and the benthic-pelagic coupling of key elements including oxygen, carbon, nitrogen, and phosphorus. She has extensive fieldwork experiences and has survived multiple experditions 
-<br/><br/>
+<br/>
 
 ---
 **Xiaotian Zhou （周筱田）**   \
