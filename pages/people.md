@@ -51,15 +51,15 @@ Marine Environmental Science, HKUST\
 Email: jsunbk@connect.ust.hk\
 <br/>
 Jing works on sediment biogeochemistry and the benthic-pelagic coupling of key elements including oxygen, carbon, nitrogen, and phosphorus. She has extensive fieldwork experiences and has survived multiple experditions 
-<br/><br/> 
+<br/> <br/> <br/> 
 
-**Xiaotian Zhou （周筱田）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/xiaotian.png" width="180"> \ 
+**Xiaotian Zhou （周筱田）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/xiaotian.png" width="180">\ 
 MPhil in Fishery Resources, Zhejiang Ocean University (2022)\
 <br/>
 Research Assistant (2022- now)\
 Email: zhouxiaotian@ust.hk\
 <br/>
-Xiaotian is working on geochemistry of sediments in coastal seas around Hong Kong. Her previous work before joining us focused on environmental organic chemistry, includings distributions and compositions of microplastics in the coastal surface seawaters and algal dissolved organic matter binding behavior with trace metals (e.g., Cu). 
+Xiaotian works on geochemistry of sediments in coastal seas around Hong Kong. Her previous work before joining us focused on environmental organic chemistry, includings distributions and compositions of microplastics in the coastal surface seawaters and algal dissolved organic matter binding behavior with trace metals (e.g., Cu). 
 <br/><br/>
 
 ### Past Members 
