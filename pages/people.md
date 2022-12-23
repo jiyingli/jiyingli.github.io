@@ -61,4 +61,6 @@ Email: zhouxiaotian@ust.hk\
 Xiaotian is working on geochemistry of sediments in coastal seas around Hong Kong. Her previous work before joining us focused on environmental organic chemistry, includings distributions and compositions of microplastics in the coastal surface seawaters and algal dissolved organic matter binding behavior with trace metals (e.g., Cu). 
 <br/><br/>
 
-### Alumin
+### Past Members 
+**Lei Zhou** ：MPhil, Marine Environmental Science (2020- 2022)\
+<br/><br/>
