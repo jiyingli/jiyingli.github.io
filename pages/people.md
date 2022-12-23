@@ -10,9 +10,8 @@ Assistant Professor，PI\
 Department of Ocean Science, The Hong Kong University of Science and Technology\
 Email: jiyingli@ust.hk\
 Tel.: +(852) 3469 2934
-<br/> <br/> <br/>
+<br/> <br/> 
 
----
 **Yuxuan Lin （林宇軒）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/Yuxuan.png" width="180"> \
 B.S. in Environmental Science, Xiamen University (2021)\
 <br/>
@@ -53,7 +52,6 @@ Email: jsunbk@connect.ust.hk\
 Jing works on sediment biogeochemistry and the benthic-pelagic coupling of key elements including oxygen, carbon, nitrogen, and phosphorus. She has extensive fieldwork experiences and has survived multiple experditions 
 <br/>
 
----
 **Xiaotian Zhou （周筱田）**   \
 MPhil in Fishery Resources, Zhejiang Ocean University (2022)\
 <br/>
@@ -62,3 +60,5 @@ Email: zhouxiaotian@ust.hk\
 <br/>
 Xiaotian is working on geochemistry of sediments in coastal seas around Hong Kong. Her previous work before joining us focused on environmental organic chemistry, includings distributions and compositions of microplastics in the coastal surface seawaters and algal dissolved organic matter binding behavior with trace metals (e.g., Cu). 
 <br/><br/>
+
+### Alumin
