@@ -17,8 +17,8 @@ Tel.: +(852) 3469 2934
 **Yuxuan Lin （林宇軒）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/Yuxuan.png" width="180"> \
 B.S. in Environmental Science, Xiamen University (2021)\
 <br/>
-MPhil student in Marine environmental science (2021 - present)\
-The Hong Kong University of Science and Technology\
+MPhil student (2021 - present)\
+Marine environmental science, The Hong Kong University of Science and Technology\
 Email: yuxuan.lin@connect.ust.hk\
 Tel.: +(852) 3469 2943
 <br/><br/><br/><br/>
@@ -26,17 +26,17 @@ Tel.: +(852) 3469 2943
 **Rixuan Gao （高日旋）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/rixuan.png" width="180"> \
 B.S. in Marine Science, Sun Yat-Sen University (2021)\
 <br/>
-MPhil student in Marine Environmental Science (2021 - present)\
-The Hong Kong University of Science and Technology \
+MPhil student (2021 - present)\
+Marine Environmental Science, The Hong Kong University of Science and Technology \
 Email: rgaoah@connect.ust.hk\
-Tel.: +(852) 3469 2943
+Tel.: +(852) 3469 2943\
 <br/><br/><br/><br/>
 
 **Xingyu Yang （楊興宇）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/xingyu.png" width="180"> \
 MPhil in Life Science, The Hong Kong University of Science and Technology (2020)\
 <br/>
-PhD student in Marine Environmental Science (2021 - present)\
-The Hong Kong University of Science and Technology \
+PhD student (2021 - present)\ 
+Marine Environmental Science, The Hong Kong University of Science and Technology \
 Email: xyangbb@connect.ust.hk\
 Tel.: +(852) 3469 2943
 <br/><br/><br/><br/>
@@ -44,8 +44,8 @@ Tel.: +(852) 3469 2943
 **Jing Sun （孫靜）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/jing2.png" width="180"> \
 M.S. in Environmental Science, Shanghai University (2020)\
 <br/>
-PhD student in Marine Environmental Science (2020 - present)\
-The Hong Kong University of Science and Technology \
+PhD student (2020 - present)\ 
+Marine Environmental Science, The Hong Kong University of Science and Technology \
 Email: jsunbk@connect.ust.hk\
 Tel.: +(852) 3469 2943
 <br/><br/><br/><br/>
