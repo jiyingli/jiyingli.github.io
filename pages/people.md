@@ -9,7 +9,7 @@ PhD. in Limnology and Oceanography, University of Minnesota (2014)\
 Assistant Professor，PI\
 Department of Ocean Science, The Hong Kong University of Science and Technology\
 Email: jiyingli@ust.hk\
-Tel.: +(852) 3469 2934\
+Tel.: +(852) 3469 2934
  <p> <a href="https://jiyingli.github.io/files/jiyingCV.pdf" target="_blank"><span style='color:#488AC7'>CV</span></a></p>    
 <br/> <br/> <br/> 
 
