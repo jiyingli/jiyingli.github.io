@@ -20,7 +20,7 @@ MPhil student (2021 - now)\
 Marine environmental science, HKUST\
 Email: yuxuan.lin@connect.ust.hk\
 <br/>
-Yuxuan studies sediment biogeochemistry, focusing on the coupled cycles of carbon, phosphorus, iron, and sulfur. His study sites includes sediments coastal to pelagic ecosystems (mangroves, seagrass beds, lagoons, and coastal and deep seas).\
+Yuxuan studies sediment biogeochemistry, focusing on the coupled cycles of carbon, phosphorus, iron, and sulfur. His study sites include sediments from coastal to pelagic ecosystems (mangroves, seagrass beds, lagoons, and coastal and deep seas).\
 <br/><br/> 
 
 **Rixuan Gao （高日旋）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/rixuan.png" width="180"> \
