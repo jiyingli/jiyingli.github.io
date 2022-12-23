@@ -6,7 +6,7 @@
 
 10.14.2022 - Jing and Yuxuan sample water and sediments in Pinqing Lagoon (the largest lagoon in China and second largest in Asia). We are "excited" to see a positive N<sub>2</sub>O gradient down core (N<sub>2</sub>O fluxes out from sediments into the water column), which is contrary to what we saw in other loacations (e.g., deep sea, coastal sediments arond HK). 
 
-9.30.2022 - Jing and Yuxuan is back on land from a research cruise to the South China Sea for sampling sediments from the Haima methane seeps, after nearly two months of hardwork (and covid dramma of crossing the border, quarantining, lockdown anxiety, and others). They have sampled sediments at three seep sites with distinct geochemistry (CH<sub>4</sub> vs H<sub>2</sub>S) and benthic biology (deep-sea mussels and clams _Archivesica marissinica_).
+9.30.2022 - Jing and Yuxuan are back on land from a research cruise to the South China Sea for sampling sediments from the Haima methane seeps, after nearly two months of hardwork (and covid dramma of crossing the border, quarantining, lockdown anxiety, and others). They have sampled sediments at three seep sites with distinct geochemistry (CH<sub>4</sub> vs H<sub>2</sub>S) and benthic biology (deep-sea mussels and clams _Archivesica marissinica_).
 
 7.1.2022 - Jiying receives a RGC-GRF Grant (Research Grant Council General Research Funding Grant) to study phosphorus cycling and fluxes in the sediments of coastal waters in Hong Kong (Jan 2023- Dec 2025). 
 
