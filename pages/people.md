@@ -53,7 +53,7 @@ Email: jsunbk@connect.ust.hk\
 Jing works on sediment biogeochemistry and the benthic-pelagic coupling of key elements including oxygen, carbon, nitrogen, and phosphorus. She has extensive fieldwork experiences and has survived multiple experditions 
 <br/><br/> 
 
-**Xiaotian Zhou （周筱田）**   \
+**Xiaotian Zhou （周筱田）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/xiaotian.png" width="180"> \ 
 MPhil in Fishery Resources, Zhejiang Ocean University (2022)\
 <br/>
 Research Assistant (2022- now)\
