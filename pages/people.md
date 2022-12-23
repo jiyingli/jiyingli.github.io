@@ -19,7 +19,6 @@ B.S. in Environmental Science, Xiamen University (2021)\
 <br/>
 MPhil student in Marine environmental science (2021 - present)\
 The Hong Kong University of Science and Technology\
-Address: 6150 Academic Building, HKUST, Clear Water Bay, Kowloon, HK\
 Email: yuxuan.lin@connect.ust.hk\
 Tel.: +(852) 3469 2943
 <br/><br/><br/><br/>
@@ -29,7 +28,6 @@ B.S. in Marine Science, Sun Yat-Sen University (2021)\
 <br/>
 MPhil student in Marine Environmental Science (2021 - present)\
 The Hong Kong University of Science and Technology \
-Address: 6150 Academic Building, HKUST, Clear Water Bay, Kowloon, HK\
 Email: rgaoah@connect.ust.hk\
 Tel.: +(852) 3469 2943
 <br/><br/><br/><br/>
@@ -39,7 +37,6 @@ MPhil in Life Science, The Hong Kong University of Science and Technology (2020)
 <br/>
 PhD student in Marine Environmental Science (2021 - present)\
 The Hong Kong University of Science and Technology \
-Address: 6150 Academic Building, HKUST, Clear Water Bay, Kowloon, HK\
 Email: xyangbb@connect.ust.hk\
 Tel.: +(852) 3469 2943
 <br/><br/><br/><br/>
@@ -49,7 +46,15 @@ M.S. in Environmental Science, Shanghai University (2020)\
 <br/>
 PhD student in Marine Environmental Science (2020 - present)\
 The Hong Kong University of Science and Technology \
-Address: 6150 Academic Building, HKUST, Clear Water Bay, Kowloon, HK\
 Email: jsunbk@connect.ust.hk\
+Tel.: +(852) 3469 2943
+<br/><br/><br/><br/>
+
+---
+**Xiaotian Zhou （周筱田）**   \
+MPhil in Fishery Resources, Zhejiang Ocean University (2022)\
+<br/>
+Research Assistant\
+Email: zhouxiaotian@ust.hk\
 Tel.: +(852) 3469 2943
 <br/><br/><br/><br/>
