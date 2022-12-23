@@ -44,7 +44,7 @@ Xingyu works on the cryptic cycles of polyphosphate (polyP) in aquatic ecosystem
 <br/><br/> 
 
 **Jing Sun （孫靜）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/jing2.png" width="180"> \
-M.S. in Environmental Science, Shanghai University (2020)\
+MPhil. in Environmental Science, Shanghai University (2020)\
 <br/>
 PhD student (2020 - now)\
 Marine Environmental Science, HKUST\
@@ -53,7 +53,7 @@ Email: jsunbk@connect.ust.hk\
 Jing works on sediment biogeochemistry and the benthic-pelagic coupling of key elements including oxygen, carbon, nitrogen, and phosphorus. She has extensive fieldwork experiences and has survived multiple experditions 
 <br/> <br/> <br/> 
 
-**Xiaotian Zhou （周筱田）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/xiaotian.png" width="180">\ 
+**Xiaotian Zhou （周筱田）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/xiaotian.png" width="180"> \
 MPhil in Fishery Resources, Zhejiang Ocean University (2022)\
 <br/>
 Research Assistant (2022- now)\
