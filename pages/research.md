@@ -27,7 +27,7 @@ Coastal marine sediments are hotspots of N<sub>2</sub>O emissions. There, the lo
 
 ### Tracing sources and turnover of phosphorus in the Chesapeake Bay
 <img align="left" style="float: left; padding-right: 30px;" src="/images/kerhin.png" width="240"> Phosphorus cycling in the Chesapeake Bay is complicated by its dynamic sources and transformations. We use stable isotope tracer (phosphate oxygen isotopes) in combine with traditional geochemical techniques to trace the P sources, reactions, and biological turnover. 
-<br/><br/>
+<br/><br/><br/>
 
 ### Sediments in the World's largest "freshwater sea" 
 <img align="left" style="float: left; padding-right: 30px;" src="/images/ironlayer.png" width="240">My PhD dissertation works on characterizing the sediment geochemistry of Lake Superior, the world's largest freshwater lake, and also one of the most oligotrophic waters. The work quantified sediment diagenetic rates and fluxes (of C, N, P, Fe, and S) and investigate their temporal and spatial heterogeneity, develop models to reconstruct and predict water column geochemistry, and describe fundamental mechanisms that can be applied across time and spatial scales.
