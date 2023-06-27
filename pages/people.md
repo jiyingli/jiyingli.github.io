@@ -3,7 +3,7 @@
 
 ## People 
 
-**Jiying Li （黎吉映）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/jiying3.png" width="180"> \
+**Jiying Li （黎吉映）**  <img align="right" style="float: right; padding-right: 30px;" src="/images/jiying3.png" width="180"> \
 PhD. in Limnology and Oceanography, University of Minnesota (2014)\
 <br/>
 Assistant Professor，PI\
