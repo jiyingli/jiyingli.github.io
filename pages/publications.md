@@ -90,24 +90,43 @@
 
 ### _Selected Presentations_ 
 (†: student presenters from our lab)
-- Li, J. Nutrient biogeochemistry in the ocean and future changes, International Symposium on the Changes of Climate, Environment, and Ecology in Antarctica, Great Wall Station, King George Island, Antarctica, Dec 29, 2024 
+- Li, J. Nutrient biogeochemistry in the ocean and future changes, International Symposium on the Changes of Climate, Environment, and Ecology in Antarctica, Great Wall Station, King George Island, Antarctica, Dec 29, 2024
+  
 - Li, J., Sun, J.†, and Lin, Y.† Phosphorus recycling in sediments–the classic model and the anomalies, Goldschmidt Conference, Lyon, France, July 9–14, 2023 (Keynote)
-- Yang, X.<sup>†</sup>, Gao, R.<sup>†</sup>, and Li, J. Unveiling the Role of Planktonic Polyphosphate in Aquatic Phosphorus Cycling with Novel Quantification, PolyP-2025 on Polyphosphate Biology, Ann Arbor, Michigan, USA, May 20-23, 2025 (Oral; Travel Award by the organizer) 
+  
+- Yang, X.<sup>†</sup>, Gao, R.<sup>†</sup>, and Li, J. Unveiling the Role of Planktonic Polyphosphate in Aquatic Phosphorus Cycling with Novel Quantification, PolyP-2025 on Polyphosphate Biology, Ann Arbor, Michigan, USA, May 20-23, 2025 (Oral; Travel Award by the organizer)
+  
 - Lin, Y.<sup>†</sup>, Sun, J.<sup>†</sup>, Zhou, X.<sup>†</sup>, Yang, J.<sup>†</sup>, Fan, Z.<sup>†</sup>, and Li, J. Carbon and nutrient recycling in coastal sediments respond disproportionally to increasing organic matter inputs, Goldschmidt Conference, Chicago, Illinois, USA, Aug 18-23, 2024 (Oral)
+  
 - Sun, J.<sup>†</sup>, Zhou, X.<sup>†</sup>, Lin, Y.<sup>†</sup>, and Li, J. Sediment P recycling and effluxes in coastal oceans, the Pearl River Estuary region. Goldschmidt Conference, Chicago, IL, USA, Aug 18-23, 2024 (Oral).
+  
 - Sun, J.<sup>†</sup> and Li, J. Sediment oxygen consumption and seasonal hypoxia—A case study in the coastal South China Sea. ASLO Aquatic Sciences Meeting, Palma de Mallorca, Spain, June 4-9, 2023 (Oral)
-- Yang, X.<sup>†</sup> and Li, J. Polyphosphate as a Phosphorus Stock in Aquatic Ecosystems. ASLO Aquatic Sciences Meeting 2023, Palma De Mallorca, Spain, June 4-9, 2023 (Poster) 
+  
+- Yang, X.<sup>†</sup> and Li, J. Polyphosphate as a Phosphorus Stock in Aquatic Ecosystems. ASLO Aquatic Sciences Meeting 2023, Palma De Mallorca, Spain, June 4-9, 2023 (Poster)
+  
 - Sun, J.<sup>†</sup>, Yu, L., Yang, X.<sup>†</sup>, Gan J., Yin H., and Li, J. Sediment oxygen uptake and hypoxia in coastal oceans, the Pearl River Estuary region. Sixth Xiamen Symposium on Marine Environmental Sciences (XMAS-VI), Xiamen, Fujian, China, Jan 9-12, 2023 (Poster)
+  
 - Lin, Y.<sup>†</sup>, Sun, J.<sup>†</sup>, Zhou, X.<sup>†</sup>, Zhong, C., and Li, J. Sediment phosphorus effluxes and nitrogen-iron-sulfur cycling enhanced by chemoautotrophy in a deep-sea methane seep, the 12th International Conference on Tropical Marine Environmental Changes, Guangzhou, Guangdong, China, Nov 18-20, 2023 (Oral)
+  
 - Lin, Y.<sup>†</sup>, Sun, J.<sup>†</sup>, and Li, J. Iron-sulfur coupling regulates sediment phosphorus biogeochemistry and fluxes in coastal oceans, the 6th Xiamen Symposium on Marine Environmental Sciences (XMAS-VI), Xiamen, Fujian, China, Jan 9-12, 2023 (Oral)
+  
 - Gao, R.<sup>†</sup>, Yang, X.<sup>†</sup>, and Li, J. Polyphosphate in marine heterotrophic bacteria as an energy storage. ASLO Aquatic Sciences Meeting, Palma de Mallorca, Spain, June 4-9, 2023 (Poster).
-- Yang, X.<sup>†</sup>, Gao, R.<sup>†</sup>, and Li, J. The Challenges in Quantifying PolyP in Natural Water Samples. FEBS 2023 Polyphosphate Meeting, Cadiz, Spain, May 9-12, 2023 (Oral; Travel Grant awarded by the organizer) 
+  
+- Yang, X.<sup>†</sup>, Gao, R.<sup>†</sup>, and Li, J. The Challenges in Quantifying PolyP in Natural Water Samples. FEBS 2023 Polyphosphate Meeting, Cadiz, Spain, May 9-12, 2023 (Oral; Travel Grant awarded by the organizer)
+  
 - Yang, X.<sup>†</sup> and Li, J. Polyphosphate in the plankton of the oligotrophic Great Lakes, Joint Aquatic Science Meeting, Grand Rapids, Michigan, USA, May 14-20, 2022 (Oral)
-- Li, J., V. Ianaiev, A. Huff, J. Zalusky, T. Ozersky, and S. Katsev. Benthic Shunt: dreissenid mussels now control phosphorus dynamics in Lake Michigan. IAGLR Conference, Brockport, NY, USA, June 10-14, 2019 (Oral) 
-- Li, J., A. Zastepa, S. Markovic, S. Watson, and M. Dittrich. Seasonal and spatial variability of polyphosphate in the water column of Hamilton Harbour. IAGLR Conference, Scarborough ON, Canada, June 18- 22, 2018 (Oral) 
-- Li, J., P. Reardon, S. R. Joshi, Y. Bai, K. Bear, N. Dhakal, N. Washton, and D. P. Jaisi. Internal cycling of phosphorus in the Chesapeake Bay: Comparison of P cycling in water and sediment columns. ASA-CSA-SSSA Annual Meeting, Minneapolis MN, USA. Nov. 15 -18, 2015 (Oral) 
-- Li, J., P. Reardon, Joshi, S.R., Bai, Y., Bear, K., Washton, N., Jaisi, D.P. Remineralization of organic phosphorus and precipitation of authigenic phosphate in the mid-Chesapeake Bay water column. Geological Society of America Annual meeting, Baltimore MD, USA. Nov 1- 4, 2015 (Oral) 
+  
+- Li, J., V. Ianaiev, A. Huff, J. Zalusky, T. Ozersky, and S. Katsev. Benthic Shunt: dreissenid mussels now control phosphorus dynamics in Lake Michigan. IAGLR Conference, Brockport, NY, USA, June 10-14, 2019 (Oral)
+  
+- Li, J., A. Zastepa, S. Markovic, S. Watson, and M. Dittrich. Seasonal and spatial variability of polyphosphate in the water column of Hamilton Harbour. IAGLR Conference, Scarborough ON, Canada, June 18- 22, 2018 (Oral)
+  
+- Li, J., P. Reardon, S. R. Joshi, Y. Bai, K. Bear, N. Dhakal, N. Washton, and D. P. Jaisi. Internal cycling of phosphorus in the Chesapeake Bay: Comparison of P cycling in water and sediment columns. ASA-CSA-SSSA Annual Meeting, Minneapolis MN, USA. Nov. 15 -18, 2015 (Oral)
+  
+- Li, J., P. Reardon, Joshi, S.R., Bai, Y., Bear, K., Washton, N., Jaisi, D.P. Remineralization of organic phosphorus and precipitation of authigenic phosphate in the mid-Chesapeake Bay water column. Geological Society of America Annual meeting, Baltimore MD, USA. Nov 1- 4, 2015 (Oral)
+  
 -	Li, J. and S. Katsev. Large lakes as analogues for sediment cycling of carbon and nitrogen in coastal and deep Ocean. Ocean Science Meeting, Honolulu HI, USA. Feb. 23 – 28, 2014 (Oral)
--	Li, J. and S. Katsev. Carbon and nutrient cycling in sediments of Lake Malawi. IAGLR Conference, West Lafayette IN, USA. June 2 -6, 2013 (Oral) 
+  
+-	Li, J. and S. Katsev. Carbon and nutrient cycling in sediments of Lake Malawi. IAGLR Conference, West Lafayette IN, USA. June 2 -6, 2013 (Oral)
+   
 -	Li, J., S. A. Crowe, D. Miklesh, D. E. Canfield, and S. Katsev. Migrations of sediment redox boundaries as indicators of change in oligotrophic systems, Goldschmidt Conference, Knoxville, Tennessee, USA. June 13- 18, 2010 (Oral) 
 
