@@ -33,7 +33,7 @@
   
 - Yang, C., Li, J. & Yin, H.* (2022). Phosphorus internal loading and sediment diagenesis in a large eutrophic lake (Lake Chaohu, China). _Environmental Pollution_, 292(Pt B), 118471. [https://doi.org/10.1016/j.envpol.2021.118471](https://doi.org/10.1016/j.envpol.2021.118471)
   
-- Li, J.*, V. Ianaiev, A. Huff, J. Zalusky, T. Ozersky, & S. Katsev*. 2021. Benthic invaders control the phosphorus cycle in the world’s largest freshwater ecosystem. _Proceedings of the National Academy of Sciences_ 118 (6). [https://doi.org/10.1073/pnas.2008223118](https://doi.org/10.1073/pnas.2008223118) (<span style="color:green">Commentary by [Vanni 2021, _PNAS_ 118(8)e2100275118](https://doi.org/10.1073/pnas.2100275118)</span>)
+- Li, J.\*, Ianaiev, V., Huff, A., Zalusky, J., Ozersky, T. & Katsev, S.\* 2021. Benthic invaders control the phosphorus cycle in the world’s largest freshwater ecosystem. _Proceedings of the National Academy of Sciences_ 118 (6). [https://doi.org/10.1073/pnas.2008223118](https://doi.org/10.1073/pnas.2008223118) (<span style="color:green">Commentary by [Vanni 2021, _PNAS_ 118(8)e2100275118](https://doi.org/10.1073/pnas.2100275118)</span>)
   
 - Bai, Y., Stout, L., Unal-Tosun, G., Li, J. & Jaisi, D.* (2020). Synthesis and Degradation of Polyphosphate: Isotope Effects in Enzyme- and Bacteria-Catalyzed Reactions. _ACS Earth and Space Chemistry_, 4(12), 2327–2336. [https://doi.org/10.1021/acsearthspacechem.0c00230](https://doi.org/10.1021/acsearthspacechem.0c00230)
   
