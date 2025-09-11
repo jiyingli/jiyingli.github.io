@@ -45,7 +45,7 @@
   
 - Li, J.*, Zhang, Y., & Katsev, S. (2018). Phosphorus recycling in deeply oxygenated sediments in Lake Superior controlled by organic matter mineralization. _Limnology and Oceanography_, 63(3), 1372–1385. [https://doi.org/10.1002/lno.10778](https://doi.org/10.1002/lno.10778)
   
-- Li, J.*, Brown, E. T., Crowe, S. A., & Katsev, S. (2018). Sediment geochemistry and contributions to carbon and nutrient cycling in a deep meromictic tropical lake: Lake Malawi (East Africa). _Journal of Great Lakes Research_, 44(6), 1221–1234. [https://doi.org/10.1016/j.jglr.2017.12.001](https://doi.org/10.1016/j.jglr.2017.12.001) <span style="color:green">2018 Elsevier Early Career Most Notable Paper Award</span>
+- Li, J.*, Brown, E. T., Crowe, S. A., & Katsev, S. (2018). Sediment geochemistry and contributions to carbon and nutrient cycling in a deep meromictic tropical lake: Lake Malawi (East Africa). _Journal of Great Lakes Research_, 44(6), 1221–1234. [https://doi.org/10.1016/j.jglr.2017.12.001](https://doi.org/10.1016/j.jglr.2017.12.001) <span style="color:green"> (2018 Elsevier Early Career Most Notable Paper Award) </span>
   
 - Li, J., Reardon, P., McKinley, J. P., Joshi, S. R., Bai, Y., Bear, K., & Jaisi, D. P.* (2017). Water column particulate matter: A key contributor to phosphorus regeneration in a coastal eutrophic environment, the Chesapeake Bay. Journal of Geophysical Research: Biogeosciences, 122(4), 737–752. [https://doi.org/10.1002/2016jg003572](https://doi.org/10.1002/2016jg003572)
   
@@ -93,7 +93,7 @@
   
 - Li, J., Sun, J.†, and Lin, Y.† Phosphorus recycling in sediments–the classic model and the anomalies, Goldschmidt Conference, Lyon, France, July 9–14, 2023 (Keynote)
   
-- Yang, X.<sup>†</sup>, Gao, R.<sup>†</sup>, and Li, J. Unveiling the Role of Planktonic Polyphosphate in Aquatic Phosphorus Cycling with Novel Quantification, PolyP-2025 on Polyphosphate Biology, Ann Arbor, Michigan, USA, May 20-23, 2025 (Oral; <span style="color:green">Travel Award</span>Travel Award by the organizer)
+- Yang, X.<sup>†</sup>, Gao, R.<sup>†</sup>, and Li, J. Unveiling the Role of Planktonic Polyphosphate in Aquatic Phosphorus Cycling with Novel Quantification, PolyP-2025 on Polyphosphate Biology, Ann Arbor, Michigan, USA, May 20-23, 2025 (Oral; <span style="color:green">Travel Award</span> by the organizer)
   
 - Lin, Y.<sup>†</sup>, Sun, J.<sup>†</sup>, Zhou, X.<sup>†</sup>, Yang, J.<sup>†</sup>, Fan, Z.<sup>†</sup>, and Li, J. Carbon and nutrient recycling in coastal sediments respond disproportionally to increasing organic matter inputs, Goldschmidt Conference, Chicago, Illinois, USA, Aug 18-23, 2024 (Oral)
   
@@ -111,7 +111,7 @@
   
 - Gao, R.<sup>†</sup>, Yang, X.<sup>†</sup>, and Li, J. Polyphosphate in marine heterotrophic bacteria as an energy storage. ASLO Aquatic Sciences Meeting, Palma de Mallorca, Spain, June 4-9, 2023 (Poster).
   
-- Yang, X.<sup>†</sup>, Gao, R.<sup>†</sup>, and Li, J. The Challenges in Quantifying PolyP in Natural Water Samples. FEBS 2023 Polyphosphate Meeting, Cadiz, Spain, May 9-12, 2023 (Oral; <span style="color:green">Travel Award</span>Travel Award by the organizer)
+- Yang, X.<sup>†</sup>, Gao, R.<sup>†</sup>, and Li, J. The Challenges in Quantifying PolyP in Natural Water Samples. FEBS 2023 Polyphosphate Meeting, Cadiz, Spain, May 9-12, 2023 (Oral; <span style="color:green">Travel Award</span> by the organizer)
   
 - Yang, X.<sup>†</sup> and Li, J. Polyphosphate in the plankton of the oligotrophic Great Lakes, Joint Aquatic Science Meeting, Grand Rapids, Michigan, USA, May 14-20, 2022 (Oral)
   
