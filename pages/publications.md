@@ -3,7 +3,7 @@
 ## Publications
 ### _Peer-reviewed Journals_
 (*: corresponding authors; †: student authors from our group)
-- Lin, Y.†, Sun, J.†, Zhou, X.†, Zhong, C., Yang, X.†, Yu, L., Sun, J., Qian, P., & Li, J.* (2025) Chemoautotrophy enhances iron and phosphorus recycling from sediments at deep-sea methane seeps. _Global Biogeochemical Cycles_, 39, e2025GB008735, https://doi.org/10.1029/2025GB008735
+- Lin, Y.<sup>†</sup>, Sun, J.†, Zhou, X.†, Zhong, C., Yang, X.†, Yu, L., Sun, J., Qian, P., & *Li, J. (2025) Chemoautotrophy enhances iron and phosphorus recycling from sediments at deep-sea methane seeps. _Global Biogeochemical Cycles_, 39, e2025GB008735, https://doi.org/10.1029/2025GB008735
 - Gao, R.†, Yang, X.†, Zhang, Q., Yung, C. C. M., He, D., Yin, H., & Li, J.* (2025). Polyphosphate dynamics in marine heterotrophic bacteria under phosphorus and organic carbon limitations. _Environmental Microbiology_, 27(8), e70165. https://doi.org/10.1111/1462-2920.70165
 - Sun, J.†, Zhou, X.†, Lin, Y.†, Yang, X.†, Yu, L., Yung, C. C. M., Zhang, Q. & Li, J.* (2025). Superlinear control of phosphorus recycling in coastal sediments by organic matter availability. _Water Research_, 283, 123889. https://doi.org/10.1016/j.watres.2025.123889
 - Sun, J.†, Yu, L., Yang, X.†, Gan, J., Yin, H. & Li, J. (2024). Sediment oxygen uptake and hypoxia in coastal oceans, the Pearl River Estuary region. _Water Research_, 267, 122499. https://doi.org/10.1016/j.watres.2024.122499
