@@ -33,7 +33,7 @@
   
 - Yang, C., Li, J. & Yin, H.* (2022). Phosphorus internal loading and sediment diagenesis in a large eutrophic lake (Lake Chaohu, China). _Environmental Pollution_, 292(Pt B), 118471. [https://doi.org/10.1016/j.envpol.2021.118471](https://doi.org/10.1016/j.envpol.2021.118471)
   
-- Li, J.*, V. Ianaiev, A. Huff, J. Zalusky, T. Ozersky, & S. Katsev*. 2021. Benthic invaders control the phosphorus cycle in the world’s largest freshwater ecosystem. _Proceedings of the National Academy of Sciences_ 118 (6). [https://doi.org/10.1073/pnas.2008223118](https://doi.org/10.1073/pnas.2008223118)
+- Li, J.*, V. Ianaiev, A. Huff, J. Zalusky, T. Ozersky, & S. Katsev*. 2021. Benthic invaders control the phosphorus cycle in the world’s largest freshwater ecosystem. _Proceedings of the National Academy of Sciences_ 118 (6). [https://doi.org/10.1073/pnas.2008223118](https://doi.org/10.1073/pnas.2008223118) (<span style="color:red">Commentary by Vanni 2021, _PNAS_ 118(8)e2100275118</span>)
   
 - Bai, Y., Stout, L., Unal-Tosun, G., Li, J. & Jaisi, D.* (2020). Synthesis and Degradation of Polyphosphate: Isotope Effects in Enzyme- and Bacteria-Catalyzed Reactions. _ACS Earth and Space Chemistry_, 4(12), 2327–2336. [https://doi.org/10.1021/acsearthspacechem.0c00230](https://doi.org/10.1021/acsearthspacechem.0c00230)
   
@@ -72,7 +72,6 @@
   
 - LI, J. (2011) Diagenesis and sediment-water exchanges in organic-poor sediments of Lake Superior. M. Sc. Thesis. University of Minnesota [(Link)](https://www.d.umn.edu/~skatsev/Publications/Li_JiyingJune2011.pdf)
 
-
 ### _Book Chapters_
 - Katsev S., Verburg P., Lliros M., Minor E., Kruger B., and Li J.. 2017. Tropical meromictic lakes: Specifics of meromixis and case studies of Lakes Tanganyika, Malawi, and Matano. In Ecology of Meromictic Lakes, edited by R. Gulati, A. Degermendzhy, and E. Zadereev. Springer. [(PDF)](https://www.researchgate.net/profile/Sergei_Katsev/publication/313904856_Tropical_Meromictic_Lakes_Specifics_of_Meromixis_and_Case_Studies_of_Lakes_Tanganyika_Malawi_and_Matano/links/5ac3b6c2aca27218eabc0a05/Tropical-Meromictic-Lakes-Specifics-of-Meromixis-and-Case-Studies-of-Lakes-Tanganyika-Malawi-and-Matano.pdf?_sg%5B0%5D=_j5laNEjoh4-qWzUggS8E26aV8uVEzLMA4qCk6JFM8pPFCRU4nnTGiYhCJEftQ1VSyHsN-amQvKttrUBhoqmbA.fHq57bX8uV7X5sq04P4vum8vLPz7uRON8tvnBuFmWQIpdNb1_0Hum1Sxpz6NVjKZUYbAzqjY8_TRiCtf23TxKQ&_sg%5B1%5D=sBLmBOrfD5oK_NheqEajbmVyHc5gp_CDBY4ZcFbWPjW0dCAAKuPgLf-L8Cn42042yXrlKCeUXhFQIIjw2dmGSgylLYXpYWIq-uzqsjanDs0P.fHq57bX8uV7X5sq04P4vum8vLPz7uRON8tvnBuFmWQIpdNb1_0Hum1Sxpz6NVjKZUYbAzqjY8_TRiCtf23TxKQ&_iepl=)
 
@@ -88,7 +87,7 @@
   
 - Li, J., & Lin, Y. (2025). Sediment nitrogen, iron and phosphorus species and fluxes in Pinqing Lagoon, South China Sea. Zenodo. [https://doi.org/10.5281/zenodo.15959091](https://doi.org/10.5281/zenodo.14885312)
 
-### _Selected Presentations_ 
+### _Presentations (selected)_ 
 (†: student presenters from our lab)
 - Li, J. Nutrient biogeochemistry in the ocean and future changes, International Symposium on the Changes of Climate, Environment, and Ecology in Antarctica, Great Wall Station, King George Island, Antarctica, Dec 29, 2024
   
