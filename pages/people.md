@@ -13,7 +13,7 @@ Tel.: +(852) 3469 2934
  <p> <a href="https://jiyingli.github.io/files/jiyingCV.pdf" target="_blank"><span style='color:#488AC7'>CV</span></a></p>    
 <br/> <br/> <br/> 
 
-**Chuanzhe Sun （孙传喆）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/chuanzhe.png" width="180"> 
+**Chuanzhe Sun （孙传喆）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/chuanzhe.png" width="180"> \
 MS in Environmental Science, Chinese Academy of Sciences, Nanjing Institute of Geography and Limnology (2024)\
 <br/>
 PhD student (2024 - now)\
