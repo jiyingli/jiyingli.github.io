@@ -23,15 +23,6 @@ Email: csunao@connect.ust.hk\
 Chuanzhe studies sediments biogeochemistry in lakes, wetlands, and coastal oceans, focusing on on cycles of muti-elements including carbon, phosphorus, nitrogen, and metals.\
 <br/><br/> 
 
-**Xiaotian Zhou （周筱田）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/xiaotian2.png" width="180"> \
-MPhil in Fishery Resources, Zhejiang Ocean University (2022)\
-<br/>
-PhD student (2023- now)\
-Email: xzhoucl@connect.ust.hk\
-<br/>
-Xiaotian works on microbial survial strategies under phosphorus limiation and feedback to ecosystem biogeochemical cycles. Her current projects include 1) aerobic methane production from methylated compounds in aquatic environments and 2) roles and dynamics of polyphosphate in cyanobacteria during overwintering. 
-<br/><br/>
-
 **Yuxuan Lin （林宇軒）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/Yuxuan.png" width="180"> \
 MPhil in Marine Environmental Science, The Hong Kong University of Science and Technology (2023)\
 B.S. in Environmental Science, Xiamen University (2021)\
@@ -42,6 +33,15 @@ Email: yuxuan.lin@connect.ust.hk\
 <br/>
 Yuxuan studies sediment biogeochemistry, focusing on the coupled cycles of carbon, phosphorus, iron, and sulfur. His study sites include sediments from coastal to pelagic ecosystems (mangroves, seagrass beds, lagoons, and coastal and deep seas).\
 <br/><br/> 
+
+**Xiaotian Zhou （周筱田）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/xiaotian2.png" width="180"> \
+MPhil in Fishery Resources, Zhejiang Ocean University (2022)\
+<br/>
+PhD student (2023- now)\
+Email: xzhoucl@connect.ust.hk\
+<br/>
+Xiaotian works on microbial survial strategies under phosphorus limiation and feedback to ecosystem biogeochemical cycles. Her current projects include 1) aerobic methane production from methylated compounds in aquatic environments and 2) roles and dynamics of polyphosphate in cyanobacteria during overwintering. 
+<br/><br/>
 
 **Xingyu Yang （楊興宇）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/xingyu.png" width="180"> \
 MPhil in Life Science, The Hong Kong University of Science and Technology (2020)\
