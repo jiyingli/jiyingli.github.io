@@ -60,6 +60,51 @@
              </nav>
           </div>     
         </div>
+           <style>
+             .container {
+                 width: 100%;
+                 max-width: 900px;
+              }    
+            .nav-container {
+               background: white;
+               width: 100%;
+               margin-bottom: 1.5rem;
+               top: 0;
+               left: 0;
+               z-index: 1000;
+             }
+        nav {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        nav a {
+            text-decoration: none;
+            color: #495057;
+            padding: 0.8rem 1.5rem;
+            display: flex;
+            align-items: center;
+            transition: all 0.3s ease;
+            font-weight: 500;
+            position: relative;
+            border-bottom: 3px solid transparent;
+        }
+        nav a i {
+            margin-right: 0.2rem;
+            font-size: 1rem;
+        }
+        nav a:hover {
+            background: transparent;
+            color: #2c3e50;
+            border-bottom: 2px solid #edf0f2;
+        }
+        nav a.active {
+            background: transparent;
+            color: #2c3e50;
+            border-bottom: 5px solid #dae6f0;
+            font-weight: 600;
+        }
+        </style>        
         {{ content }} 
       </section>
      
@@ -74,7 +119,14 @@
       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
       ga('create', '{{ site.google_analytics }}', 'auto');
       ga('send', 'pageview');
-
+         
+         document.querySelectorAll('nav a').forEach(link => {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                document.querySelectorAll('nav a').forEach(l => l.classList.remove('active'));
+                this.classList.add('active');
+            });
+        });
        </script>
        
     {% endif %}
