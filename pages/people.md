@@ -14,7 +14,7 @@ Tel.: +(852) 3469 2934
 <br/> <br/> <br/> 
 
 **Chuanzhe Sun （孙传喆）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/chuanzhe.png" width="180"> 
-<div align="right" style="float: left; padding-right: 30px; font-style: italic; font-size: smaller;">Chuanzhe retrieving a core.</div> \
+<div align="left" style="float: left; padding-right: 30px; font-style: italic; font-size: smaller;">Chuanzhe retrieving a core.</div> \
 MS in Environmental Science, Chinese Academy of Sciences, Nanjing Institute of Geography and Limnology (2024)\
 <br/>
 PhD student (2024 - now)\
