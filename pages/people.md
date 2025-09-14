@@ -58,19 +58,19 @@ Xingyu works on the cryptic cycles of polyphosphate (polyP) in aquatic ecosystem
 ---
 **Jing Sun （孫靜）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/jing2.png" width="180"> \
 PhD in Marine Environmental Science, HKUST (2024)\
+<br/> 
+Thesis: Sediment biogeochemical cycles and exchanges with water column in the coastal ocean around the Pearl River Estuary. doi: 10.14711/thesis-991013384163903412
 <br/>
 Currently a postdoc research at HKUST \
 Email: jings@ust.hk\
-<br/>
-Thesis: Sediment biogeochemical cycles and exchanges with water column in the coastal ocean around the Pearl River Estuary. doi: 10.14711/thesis-991013384163903412
 <br/> <br/> <br/> <br/><br/>
 
 **Rixuan Gao （高日旋）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/rixuan.png" width="180"> \
 MPhil in Marine Environmental Science, HKUST (2024)\
 <br/>
-Currently a Technical Officer at Ocean Research Facility, HKUST
-<br/>
 Thesis: Polyphosphate dynamics in marine heterotrophic bacteria under phosphorus and organic carbon limitations. 10.14711/thesis-991013340457303412
+<br/>
+Currently a Technical Officer at Ocean Research Facility, HKUST\
 <br/><br/> <br/><br/>
 
 **Lei Zhou** ：\
