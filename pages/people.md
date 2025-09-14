@@ -51,7 +51,7 @@ Marine Environmental Science, HKUST\
 Email: xyangbb@connect.ust.hk\
 <br/>
 Xingyu works on the cryptic cycles of polyphosphate (polyP) in aquatic ecosystems, including plankton polyP metabolisms and the roles of polyP on ecosystem-scale P cycling. His approaches include culture experiments and field studies of diverse systems including coastal and pelagic waters around Hong Kong, as well as the oligotrophic North American Great Lakes.
-<br/><br/><br/> 
+<br/><br/><br/>
 
 
 ### Past Members 
@@ -63,7 +63,7 @@ Currently a postdoc research at HKUST \
 Email: jings@ust.hk\
 <br/>
 Thesis: Sediment biogeochemical cycles and exchanges with water column in the coastal ocean around the Pearl River Estuary. doi: 10.14711/thesis-991013384163903412
-<br/> <br/> <br/>
+<br/> <br/> <br/> <br/><br/>
 
 **Rixuan Gao （高日旋）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/rixuan.png" width="180"> \
 MPhil in Marine Environmental Science, HKUST (2024)\
@@ -71,7 +71,7 @@ MPhil in Marine Environmental Science, HKUST (2024)\
 Currently a Technical Officer at Ocean Research Facility, HKUST
 <br/>
 Thesis: Polyphosphate dynamics in marine heterotrophic bacteria under phosphorus and organic carbon limitations. 10.14711/thesis-991013340457303412
-<br/><br/> 
+<br/><br/> <br/><br/>
 
 **Lei Zhou** ：\
 MPhil, Marine Environmental Science (2020- 2022)\
