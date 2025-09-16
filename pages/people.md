@@ -24,8 +24,7 @@ Chuanzhe studies sediments biogeochemistry in lakes, wetlands, and coastal ocean
 <br/><br/> 
 
 **Yuxuan Lin （林宇軒）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/Yuxuan.png" width="180"> \
-MPhil in Marine Environmental Science, The Hong Kong University of Science and Technology (2023)\
-B.S. in Environmental Science, Xiamen University (2021)\
+MPhil in Marine Environmental Science, The Hong Kong University of Science and Technology (2023)
 <br/>
 PhD student (2023 - now)\
 Marine environmental science, HKUST\
@@ -59,7 +58,7 @@ Xingyu works on the cryptic cycles of polyphosphate (polyP) in aquatic ecosystem
 **Jing Sun （孫靜）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/jing2.png" width="180"> \
 PhD in Marine Environmental Science, HKUST (2024)\
 <br/> 
-Thesis: Sediment biogeochemical cycles and exchanges with water column in the coastal ocean around the Pearl River Estuary. doi: 10.14711/thesis-991013384163903412
+Thesis: Sediment biogeochemical cycles and exchanges with water column in the coastal ocean around the Pearl River Estuary. doi: 10.14711/thesis-991013384163903412\
 <br/>
 Currently a postdoc research at HKUST \
 Email: jings@ust.hk\
@@ -68,7 +67,7 @@ Email: jings@ust.hk\
 **Rixuan Gao （高日旋）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/rixuan.png" width="180"> \
 MPhil in Marine Environmental Science, HKUST (2024)\
 <br/>
-Thesis: Polyphosphate dynamics in marine heterotrophic bacteria under phosphorus and organic carbon limitations. 10.14711/thesis-991013340457303412
+Thesis: Polyphosphate dynamics in marine heterotrophic bacteria under phosphorus and organic carbon limitations. 10.14711/thesis-991013340457303412\
 <br/>
 Currently a Technical Officer at Ocean Research Facility, HKUST\
 <br/><br/> <br/><br/>
