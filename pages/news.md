@@ -22,6 +22,8 @@
 
 4.16.2024 - Our paper Yang et al. "Polyphosphate phosphorus in the Great Lakes" is published in **_Limnology and Oceanography Letters_**. This is the first study of polyP in the World's largest freshwater ecosystem. Our findings help bridge a critical data gap in global polyP inventories, enabling a synthesis of polyP across systems of varying trophic states and microbial regimes. [(link)](https://doi.org/10.1002/lol2.10394)
 
+9.1.2023 - Xiaotian finished her RA term and will stay with us as a PhD student. She just managed to pull her legs out of the mangrove mud and survived this brutal fieldwork summer, and she's already signed on to be our fieldwork buddy for years to come!
+
 6.30.2023 - Yuxuan successfully defended his **MPhil thesis** today! Congratulations to Yuxuan. He will continue pursuing his PhD in our lab. Glad that we'll still have seeing him around!
 
 10.19.2022 - Samples from Haima methane seeps and Pinping Lagoon are escorted back to Hong Kong! Welcome back Jing and Yuxuan, and a new members Xiaotian Zhou joining us a Research Assistant. Welcome, Xiaotian!
