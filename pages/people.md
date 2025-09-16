@@ -4,7 +4,7 @@
 ## People 
 
 **Jiying Li （黎吉映）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/jiying3.png" width="180"> \
-PhD. in Limnology and Oceanography, University of Minnesota (2014)\
+PhD in Limnology and Oceanography, University of Minnesota (2014)\
 <br/>
 Assistant Professor，PI\
 Department of Ocean Science, The Hong Kong University of Science and Technology\
@@ -13,25 +13,34 @@ Tel.: +(852) 3469 2934
  <p> <a href="https://jiyingli.github.io/files/jiyingCV.pdf" target="_blank"><span style='color:#488AC7'>CV</span></a></p>    
 <br/> <br/> <br/> 
 
-**Yuxuan Lin （林宇軒）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/Yuxuan.png" width="180"> \
-B.S. in Environmental Science, Xiamen University (2021)\
+**Chuanzhe Sun （孙传喆）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/chuanzhe.png" width="180"> \
+MS in Environmental Science, Chinese Academy of Sciences, Nanjing Institute of Geography and Limnology (2024)\
 <br/>
-MPhil student (2021 - now)\
+PhD student (2024 - now)\
+Marine environmental science, HKUST\
+Email: csunao@connect.ust.hk\
+<br/>
+Chuanzhe studies sediments biogeochemistry in lakes, wetlands, and coastal oceans, focusing on on cycles of muti-elements including carbon, phosphorus, nitrogen, and metals.\
+<br/><br/> 
+
+**Yuxuan Lin （林宇軒）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/Yuxuan.png" width="180"> \
+MPhil in Marine Environmental Science, The Hong Kong University of Science and Technology (2023)
+<br/>
+PhD student (2023 - now)\
 Marine environmental science, HKUST\
 Email: yuxuan.lin@connect.ust.hk\
 <br/>
 Yuxuan studies sediment biogeochemistry, focusing on the coupled cycles of carbon, phosphorus, iron, and sulfur. His study sites include sediments from coastal to pelagic ecosystems (mangroves, seagrass beds, lagoons, and coastal and deep seas).\
 <br/><br/> 
 
-**Rixuan Gao （高日旋）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/rixuan.png" width="180"> \
-B.S. in Marine Science, Sun Yat-Sen University (2021)\
+**Xiaotian Zhou （周筱田）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/xiaotian2.png" width="180"> \
+MPhil in Fishery Resources, Zhejiang Ocean University (2022)\
 <br/>
-MPhil student (2021 - now)\
-Marine Environmental Science, HKUST\
-Email: rgaoah@connect.ust.hk\
+PhD student (2023- now)\
+Email: xzhoucl@connect.ust.hk\
 <br/>
-Rixuan studies how marine heterotrophic bacteria accumulate and metabolize polyphosphate as a nutrient and/or energy reserve，using culture experiments of both pure baterial strains and natural communities harvested from coastal marine waters in Hong Kong.\
-<br/><br/> 
+Xiaotian works on microbial survial strategies under phosphorus limiation and feedback to ecosystem biogeochemical cycles. Her current projects include 1) aerobic methane production from methylated compounds in aquatic environments and 2) roles and dynamics of polyphosphate in cyanobacteria during overwintering. 
+<br/><br/>
 
 **Xingyu Yang （楊興宇）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/xingyu.png" width="180"> \
 MPhil in Life Science, The Hong Kong University of Science and Technology (2020)\
@@ -41,28 +50,29 @@ Marine Environmental Science, HKUST\
 Email: xyangbb@connect.ust.hk\
 <br/>
 Xingyu works on the cryptic cycles of polyphosphate (polyP) in aquatic ecosystems, including plankton polyP metabolisms and the roles of polyP on ecosystem-scale P cycling. His approaches include culture experiments and field studies of diverse systems including coastal and pelagic waters around Hong Kong, as well as the oligotrophic North American Great Lakes.
-<br/><br/> 
+<br/><br/><br/>
 
-**Jing Sun （孫靜）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/jing2.png" width="180"> \
-MPhil. in Environmental Science, Shanghai University (2020)\
-<br/>
-PhD student (2020 - now)\
-Marine Environmental Science, HKUST\
-Email: jsunbk@connect.ust.hk\
-<br/>
-Jing works on sediment biogeochemistry and the benthic-pelagic coupling of key elements including oxygen, carbon, nitrogen, and phosphorus. She has extensive fieldwork experiences and has survived multiple experditions 
-<br/> <br/> <br/> 
-
-**Xiaotian Zhou （周筱田）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/xiaotian.png" width="180"> \
-MPhil in Fishery Resources, Zhejiang Ocean University (2022)\
-<br/>
-Research Assistant (2022- now)\
-Email: zhouxiaotian@ust.hk\
-<br/>
-Xiaotian works on geochemistry of sediments in coastal seas around Hong Kong. Her previous work before joining us focused on environmental organic chemistry, includings distributions and compositions of microplastics in the coastal surface seawaters and algal dissolved organic matter binding behavior with trace metals (e.g., Cu). 
-<br/><br/>
 
 ### Past Members 
 ---
-**Lei Zhou** ：MPhil, Marine Environmental Science (2020- 2022)\
+**Jing Sun （孫靜）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/jing2.png" width="180"> \
+PhD in Marine Environmental Science, HKUST (2024)\
+<br/> 
+Thesis: Sediment biogeochemical cycles and exchanges with water column in the coastal ocean around the Pearl River Estuary. doi: 10.14711/thesis-991013384163903412\
+<br/>
+Currently a postdoc research at HKUST \
+Email: jings@ust.hk\
+<br/> <br/> <br/> <br/><br/>
+
+**Rixuan Gao （高日旋）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/rixuan.png" width="180"> \
+MPhil in Marine Environmental Science, HKUST (2024)\
+<br/>
+Thesis: Polyphosphate dynamics in marine heterotrophic bacteria under phosphorus and organic carbon limitations. 10.14711/thesis-991013340457303412\
+<br/>
+Currently a Technical Officer at Ocean Research Facility, HKUST\
+<br/><br/> <br/><br/>
+
+**Lei Zhou** ：\
+MPhil, Marine Environmental Science (2020- 2022)\
+Thesis: Sediment oxygen uptake and carbon mineralization in the Pearl River Estuary and adjacent coastal waters. doi:10.14711/thesis-991013088359403412.
 <br/><br/>
