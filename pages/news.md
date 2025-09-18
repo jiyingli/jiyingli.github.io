@@ -1,8 +1,7 @@
 ### [**Home**](../README.md)  /  [**Research**](research.md)  /  [**Teaching**](teaching.md)  / [**People**](people.md) /  [**Publications**](publications.md)  /  [**Join us**](joinus.md)  /  [**News**](news.md) 
 ---
 ## News 
-#(actually a retroactive record, updated whenever I remember it happened.)
-
+###(actually a retroactive record, updated whenever I remember it happened.)
 
 8.28.2025 - **Xiaotian** and **Yuxuan** passed their PQE and now become **PhD candidates**!
 
