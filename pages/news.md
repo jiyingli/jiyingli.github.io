@@ -50,7 +50,7 @@
 
 08.02.2020 - Lei Zhou joins us as a Mphil student. Welcome, Lei! 
 
-07.02.2020 - Jiying Join the Department of Ocean Sciences at the Hong Kong University of Science and Technology. 
+07.02.2020 - Jiying Join the **Department of Ocean Sciences** at the **Hong Kong University of Science and Technology** as an Assistant Professor. 
 
 12.17.2019 - Our paper Li et al. "Picoplankton accumulate and recycle polyphosphate to support high primary productivity in coastal Lake Ontario" is now published in **_Scientific Reports_** [(link)](https://www.nature.com/articles/s41598-019-56042-5)
 
