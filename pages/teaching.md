@@ -5,7 +5,7 @@
 - _Chemical Oceanography_ (PG course, Hong Kong University of Science and Technology, 2020-now) 
 - _Marine Chemistry_ (UG course; Hong Kong University of Science and Technology, 2020-now)
 - _Ocean and Climate Change_ (UG course; Hong Kong University of Science and Technology, 2021-now)
-- _Principles and Applications of Environmental Science_ (UG course; Hong Kong Univeristy of Science and Technology, 2022-now)
-- _General Physics Lab_ (UG course; University of Minnesota Duluth, 2008-2010)
+- _Principles and Applications of Environmental Science_ (UG course; Hong Kong Univeristy of Science and Technology, 2022-2025)
+- _The Earth as a Blue Planet_ (UG course; Hong Kong Univeristy of Science and Technology, 2024-2025)
 
 
