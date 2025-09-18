@@ -2,29 +2,33 @@
 ---
 ## News
 
-8.28.2025 - Xiaotian and Yuxuan passed their PQE and now become **PhD candidates**!
+8.28.2025 - **Xiaotian** and **Yuxuan** passed their PQE and now become **PhD candidates**!
 
-8.22.2025 - Our paper Lin et al. "Chemoautotrophy Enhances Iron and Phosphorus Recycling From Sediments at Deep-Sea Methane Seeps" is now published in **_Global Biogeochemical Cycles_**. We discovered chemoautotrophs at cold seeps don't just feed the seafloor life–they also help promote the recycling of key nutrients iron and phosphorus. [(link)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GB008735)
+8.22.2025 - Our paper **Lin et al.** "Chemoautotrophy Enhances Iron and Phosphorus Recycling From Sediments at Deep-Sea Methane Seeps" is now published in **_Global Biogeochemical Cycles_**. We discovered chemoautotrophs at cold seeps don't just feed the seafloor life–they also help promote the recycling of key nutrients iron and phosphorus. [(link)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GB008735)
 
-8.6.2025 - Our paper Gao et al. "Polyphosphate Dynamics in Marine Heterotrophic Bacteria Under Phosphorus and Organic Carbon Limitations" is published in **_Environmental Microbiology_**. We found that marine bacteria accumulate varying levels of polyP to adapt to their specific environmental niches, and this variability is linked to distinct polyP functions under carbon and phosphorus limitations.[(link)](https://doi.org/10.1111/1462-2920.70165)
+8.6.2025 - Our paper **Gao et al.** "Polyphosphate Dynamics in Marine Heterotrophic Bacteria Under Phosphorus and Organic Carbon Limitations" is published in **_Environmental Microbiology_**. We found that marine bacteria accumulate varying levels of polyP to adapt to their specific environmental niches, and this variability is linked to distinct polyP functions under carbon and phosphorus limitations.[(link)](https://doi.org/10.1111/1462-2920.70165)
 
-5.22.2025 - Our paper Sun et al. "Superlinear control of phosphorus recycling in coastal sediments by organic matter availability" is accepted and now available online at **_Water Research_**. We found that sediment P efflux in coastal oceans around the Pearl River Estuary region responds disproportionately to organic carbon remineralization following a superlinear relationship, providing transformative quantitative constraints  critical for modeling regional and global P budget and dynamics. [(link)](https://doi.org/10.1016/j.watres.2025.123889)
+6.30.2025 - Jiying receives a **RGC-GRF Grant** to study polyphosphate in sediments (Jan 2026- Dec 2028). 
+
+5.22.2025 - Our paper **Sun et al.** "Superlinear control of phosphorus recycling in coastal sediments by organic matter availability" is accepted and now available online at **_Water Research_**. We found that sediment P efflux in coastal oceans around the Pearl River Estuary region responds disproportionately to organic carbon remineralization following a superlinear relationship, providing transformative quantitative constraints  critical for modeling regional and global P budget and dynamics. [(link)](https://doi.org/10.1016/j.watres.2025.123889)
 
 12.27.2025 - Jing successfully defended her **PhD thesis** today! Congratulations, **Dr. Sun**! Jing is now an expert in sediment oxygen dynamics and phosphorus and nitrogen cycling. She will join [Prof. He Ding's lab at HKUST](https://hkustdinghe.github.io) as a postdoctoral researcher to explore organic geochemistry in sediments. So we will still see her around!
 
-12.1.2024 - Our paper Sun et al. "Sediment oxygen uptake and hypoxia in coastal oceans, the Pearl River Estuary region" is published in **_Water Research_**. We quantify sediment oxygen uptake in the Pearl River Estuary and surrounding coastal shelves and demonstrate that sediment influence on bottom-water oxygen is strongly regulated by the thickness of the bottom boundary layer. We establish robust relationships that improve upon previous parameterizations used in regional biogeochemical models and introduce a simple model and mass-balance analysis to enhance the mechanistic understanding of hypoxia development timescales, conditions, and cross-system variability.[(link)](https://doi.org/10.1016/j.watres.2024.122499)
+12.1.2024 - Our paper **Sun et al.** "Sediment oxygen uptake and hypoxia in coastal oceans, the Pearl River Estuary region" is published in **_Water Research_**. We quantify sediment oxygen uptake in the Pearl River Estuary and surrounding coastal shelves and demonstrate that sediment influence on bottom-water oxygen is strongly regulated by the thickness of the bottom boundary layer. We establish robust relationships that improve upon previous parameterizations used in regional biogeochemical models and introduce a simple model and mass-balance analysis to enhance the mechanistic understanding of hypoxia development timescales, conditions, and cross-system variability.[(link)](https://doi.org/10.1016/j.watres.2024.122499)
 
-9.1.2024 - Chuanzhe joined us as a PhD student. Welcome! He was “kidnapped” to join our 25-day (or longer) “wonderful” Pearl River Estuary cruise even before he officially joined us. The brutal seasickness made his trip unforgettable, but it didn’t change his mind about joining us to play with more sediments in the years to come. 
+9.1.2024 - **Chuanzhe** joined us as a PhD student. Welcome! He was “kidnapped” to join our 25-day (or longer) “wonderful” Pearl River Estuary cruise even before he officially joined us. The brutal seasickness made his trip unforgettable, but it didn’t change his mind about joining us to play with more sediments in the years to come. 
 
-8.14.2024 - Rixuan successfully defended her **Mphil thesis** today! Congratulations to Rixuan. After much trial and error, she pushed forward our knowledge of the multifaceted roles of polyP through her study of polyP dynamics in marine bacteria under carbon and phosphorus limitation. A manuscript is on the way!
+8.14.2024 - **Rixuan** successfully defended her **Mphil thesis** today! Congratulations to Rixuan. After much trial and error, she pushed forward our knowledge of the multifaceted roles of polyP through her study of polyP dynamics in marine bacteria under carbon and phosphorus limitation. A manuscript is on the way!
 
-7.30.2024 - Our paper Yang et al. "Quantification of Polyphosphate in Environmental Planktonic Samples Using a Novel Fluorescence Dye JC-D7" is published in **_Environmental Science and Technology_**. After numerous tests over the past three years, we finally cracked this! For decades, polyP quantification in natural environments has been semiquantitative. Our method, for the first time, offers accurate quantification of polyP in natural planktonic samples. Our piles of samples (from many places and many seasons) will be analyzed using this new method! More stories are to come...[(link)](https://pubs.acs.org/doi/full/10.1021/acs.est.4c04545)
+7.30.2024 - Our paper **Yang et al.** "Quantification of Polyphosphate in Environmental Planktonic Samples Using a Novel Fluorescence Dye JC-D7" is published in **_Environmental Science and Technology_**. After numerous tests over the past three years, we finally cracked this! For decades, polyP quantification in natural environments has been semiquantitative. Our method, for the first time, offers accurate quantification of polyP in natural planktonic samples. Our piles of samples (from many places and many seasons) will be analyzed using this new method! More stories are to come...[(link)](https://pubs.acs.org/doi/full/10.1021/acs.est.4c04545)
 
-4.16.2024 - Our paper Yang et al. "Polyphosphate phosphorus in the Great Lakes" is published in **_Limnology and Oceanography Letters_**. This is the first study of polyP in the World's largest freshwater ecosystem. Our findings help bridge a critical data gap in global polyP inventories, enabling a synthesis of polyP across systems of varying trophic states and microbial regimes. [(link)](https://doi.org/10.1002/lol2.10394)
+6.30.2025 - Jiying receives a **RGC-GRF Grant** to study cycling and fluxes of N<sub>2</sub>O in sediments (Jan 2025- Dec 2027). 
 
-9.1.2023 - Xiaotian finished her RA term and will stay with us as a PhD student. She just survived this brutal fieldwork summer and managed to pull her legs out of the mangrove mud before signing on to be our fieldwork buddy for years to come!
+4.16.2024 - Our paper **Yang et al.** "Polyphosphate phosphorus in the Great Lakes" is published in **_Limnology and Oceanography Letters_**. This is the first study of polyP in the World's largest freshwater ecosystem. Our findings help bridge a critical data gap in global polyP inventories, enabling a synthesis of polyP across systems of varying trophic states and microbial regimes. [(link)](https://doi.org/10.1002/lol2.10394)
 
-6.30.2023 - Yuxuan successfully defended his **MPhil thesis** today! Congratulations to Yuxuan. He will continue pursuing his PhD in our lab. Glad that we'll continue to have him around!
+9.1.2023 - **Xiaotian** finished her RA term and will stay with us as a PhD student. She just survived this brutal fieldwork summer and managed to pull her legs out of the mangrove mud before signing on to be our fieldwork buddy for years to come!
+
+6.30.2023 - **Yuxuan** successfully defended his **MPhil thesis** today! Congratulations to Yuxuan. He will continue pursuing his PhD in our lab. Glad that we'll continue to have him around!
 
 10.19.2022 - Samples from Haima methane seeps and Pinping Lagoon are escorted back to Hong Kong! Welcome back Jing and Yuxuan, and a new members Xiaotian Zhou joining us a Research Assistant. Welcome, Xiaotian!
 
@@ -32,23 +36,23 @@
 
 9.30.2022 - Jing and Yuxuan are back on land from a research cruise to the South China Sea for sampling sediments from the Haima methane seeps, after nearly two months of hardwork (and covid dramma of crossing the border, quarantining, lockdown anxiety, and others). They have sampled sediments at three seep sites with distinct geochemistry (CH<sub>4</sub> vs H<sub>2</sub>S) and benthic biology (deep-sea mussels and clams _Archivesica marissinica_).
 
-7.1.2022 - Jiying receives a RGC-GRF Grant (Research Grant Council General Research Funding Grant) to study phosphorus cycling and fluxes in the sediments of coastal waters in Hong Kong (Jan 2023- Dec 2025). 
+7.1.2022 - Jiying receives a **RGC-GRF Grant** (Research Grant Council General Research Funding Grant) to study phosphorus cycling and fluxes in the sediments of coastal waters in Hong Kong (Jan 2023- Dec 2025). 
 
 5.17.2022 - Xingyu presents our work "Polyphosphate in the plankton of the oligotrophic Great Lakes" at the Joint Aquatic Science Meeting (Grand Rapids, MN, US). Some funs are missing for a virtual meeting (we are staying in HK), but on the bright side it is environmental and introvert friendly...
 
-9.1.2021 - Xingyu finished his RA term and now joins us as a PhD student. We have two new members Yuxuan Lin and Rixuan Gao joining in as Mphil students; Welcome Rixuan, Yuxuan, and Xingyu! 
+9.1.2021 - **Xingyu** finished his RA term and now joins us as a PhD student. We have two new members Yuxuan Lin and Rixuan Gao joining in as Mphil students; Welcome Rixuan, Yuxuan, and Xingyu! 
 
-7.1.2021 - Jiying receives her first RGC-ECS Grant (Research Grant Council Early Career Scheme Grant) to study polyphosphate dynamics in coastal oceans (Jan 2022 - Dec 2024). 
+7.1.2021 - Jiying receives her first **RGC-ECS Grant** (Research Grant Council Early Career Scheme Grant) to study polyphosphate dynamics in coastal oceans (Jan 2022 - Dec 2024). 
 
 06.2.2021- 07.10.2021 - We survive the research cruises aboard the _R/V Haike 68_ in the Pearl River Estuary and along the coastal shelf waters in the Northern South China Sea. We sampled more than 20 stations for both sediments and water. This is the first cruise for Jing, Lei, and Xingyu, and also Jiying's first cruise in this part of the globe. Cyclones are no fun; sunsets are delightful; feets on the ground (literally) again reminds us of happiness being simple..
 
 1.25.2021 - Our paper Li et al. "Benthic invaders control the phosphorus cycle in the world's largest freshwater ecosystem" is now published in **_Proceedings of the National Academy of Sciences_** [(link)](https://www.pnas.org/content/118/6/e2008223118). [(News Brief)](https://twin-cities.umn.edu/news-events/invasive-mussels-now-control-key-nutrient-american-great-lakes)
 
-09.21.2020 - Xingyu Yang Joins us a Research Assistant. Welcome, Xingyu! 
+09.21.2020 - **Xingyu Yang** Joins us a Research Assistant. Welcome, Xingyu! 
 
-09.07.2020 - Jing Sun joins us as a PhD student. Welcome, Jing! 
+09.07.2020 - **Jing Sun** joins us as a PhD student. Welcome, Jing! 
 
-08.02.2020 - Lei Zhou joins us as a Mphil student. Welcome, Lei! 
+08.02.2020 - **Lei Zhou** joins us as a Mphil student. Welcome, Lei! 
 
 07.02.2020 - Jiying Join the **Department of Ocean Sciences** at the **Hong Kong University of Science and Technology** as an Assistant Professor. 
 
