@@ -24,7 +24,7 @@
 
 9.1.2023 - Xiaotian finished her RA term and will stay with us as a PhD student. She just survived this brutal fieldwork summer and managed to pull her legs out of the mangrove mud before signing on to be our fieldwork buddy for years to come!
 
-6.30.2023 - Yuxuan successfully defended his **MPhil thesis** today! Congratulations to Yuxuan. He will continue pursuing his PhD in our lab. Glad that we'll still have him around!
+6.30.2023 - Yuxuan successfully defended his **MPhil thesis** today! Congratulations to Yuxuan. He will continue pursuing his PhD in our lab. Glad that we'll continue to have him around!
 
 10.19.2022 - Samples from Haima methane seeps and Pinping Lagoon are escorted back to Hong Kong! Welcome back Jing and Yuxuan, and a new members Xiaotian Zhou joining us a Research Assistant. Welcome, Xiaotian!
 
