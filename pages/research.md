@@ -25,6 +25,9 @@ Coastal marine sediments are hotspots of N<sub>2</sub>O emissions. There, the lo
 
 ## Past Projects 
 
+### Benthic invaders shift geochemical regimes by impacting sediments 
+<img align="left" style="float: left; padding-right: 30px;" src="/images/mussels.png" width="240" height="180"> The invasion of dreissenid mussels (zebra mussels and quagga mussels) in the Laurentian Great Lakes has caused dramatic changes in the ecology and water chemistry. The impacts of mussels on sediments remain unclear. We survey the lake floor of upper Great Lakes (Lakes Superior, Michigan, and Huron), characterize sediment geochemistry and mussel physiology, and investigate the impacts of mussels on  exchanges of elements at the sediment-water interface. We develop a whole-system mass-balance model to quantify the mussels' impact on ecosystem scale, and predict the geochemical trajectory of invaded systems. 
+
 ### Tracing sources and turnover of phosphorus in the Chesapeake Bay
 <img align="left" style="float: left; padding-right: 30px;" src="/images/kerhin.png" width="240"> Phosphorus cycling in the Chesapeake Bay is complicated by its dynamic sources and transformations. We use stable isotope tracer (phosphate oxygen isotopes) in combine with traditional geochemical techniques to trace the P sources, reactions, and biological turnover. 
 <br/><br/><br/>
