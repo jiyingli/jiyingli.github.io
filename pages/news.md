@@ -3,7 +3,7 @@
 ## News 
 (actually a retroactive record, updated whenever I remember it happened.)
 
-9.23.2025 - **Xingyu** successfully defended his **PhD thesis** today! Congratulations, **Dr. Yang!**. Not even Typhoon Ragasa could stop this milestone. He will stay with us as a postdoctoral researcher (thanks to the EARTH-HK Postdoctoral Fellowship) to continue his quest in polyP. Stay tuned for his new findings!
+9.23.2025 - **Xingyu** successfully defended his **PhD thesis** today! Congratulations, **Dr. Yang!**. Not even Typhoon Ragasa could stop this milestone. He will stay with us as a postdoctoral researcher (thanks to the EARTH-HK Postdoctoral Fellowship) to continue his quest in polyP. Stay tuned for more new findings!
 
 8.28.2025 - **Xiaotian** and **Yuxuan** passed their PQE and now become **PhD candidates**!
 
