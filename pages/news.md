@@ -3,6 +3,8 @@
 ## News 
 (actually a retroactive record, updated whenever I remember it happened.)
 
+9.23.2025 - **Xingyu** successfully defended his **PhD thesis** today! Congratulations, **Dr. Yang!**. He will stay with us as a postdoctoral researcher (thanks to the EARTH-HK Postdoctoral Fellowship Scheme) to continue his quest in polyP. Stay tuned for his new findings!
+
 8.28.2025 - **Xiaotian** and **Yuxuan** passed their PQE and now become **PhD candidates**!
 
 8.22.2025 - Our paper **Lin et al.** "Chemoautotrophy Enhances Iron and Phosphorus Recycling From Sediments at Deep-Sea Methane Seeps" is now published in **_Global Biogeochemical Cycles_**. We discovered chemoautotrophs at cold seeps don't just feed the seafloor life–they also help promote the recycling of key nutrients iron and phosphorus. [(link)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GB008735)
@@ -13,7 +15,7 @@
 
 5.22.2025 - Our paper **Sun et al.** "Superlinear control of phosphorus recycling in coastal sediments by organic matter availability" is accepted and now available online at **_Water Research_**. We found that sediment P efflux in coastal oceans around the Pearl River Estuary region responds disproportionately to organic carbon remineralization following a superlinear relationship, providing transformative quantitative constraints  critical for modeling regional and global P budget and dynamics. [(link)](https://doi.org/10.1016/j.watres.2025.123889)
 
-12.27.2025 - Jing successfully defended her **PhD thesis** today! Congratulations, **Dr. Sun**! Jing is now an expert in sediment oxygen dynamics and phosphorus and nitrogen cycling. She will join [Prof. He Ding's lab at HKUST](https://hkustdinghe.github.io) as a postdoctoral researcher to explore organic geochemistry in sediments. So we will still see her around!
+12.27.2025 - **Jing** successfully defended her **PhD thesis** today! Congratulations, **Dr. Sun**! Jing is now an expert in sediment oxygen dynamics and phosphorus and nitrogen cycling. She will join [Prof. He Ding's lab at HKUST](https://hkustdinghe.github.io) as a postdoctoral researcher to explore organic geochemistry in sediments. So we will still see her around!
 
 12.1.2024 - Our paper **Sun et al.** "Sediment oxygen uptake and hypoxia in coastal oceans, the Pearl River Estuary region" is published in **_Water Research_**. We quantify sediment oxygen uptake in the Pearl River Estuary and surrounding coastal shelves and demonstrate that sediment influence on bottom-water oxygen is strongly regulated by the thickness of the bottom boundary layer. We establish robust relationships that improve upon previous parameterizations used in regional biogeochemical models and introduce a simple model and mass-balance analysis to enhance the mechanistic understanding of hypoxia development timescales, conditions, and cross-system variability.[(link)](https://doi.org/10.1016/j.watres.2024.122499)
 
