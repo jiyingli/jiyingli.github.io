@@ -5,7 +5,7 @@
 
 9.23.2025 - **Xingyu** successfully defended his **PhD thesis** today! Congratulations, **Dr. Yang!**. Not even Typhoon Ragasa could stop this milestone. He will stay with us as a postdoctoral researcher (thanks to the EARTH-HK Postdoctoral Fellowship) to continue his quest in polyP. Stay tuned for more new findings!
 
-8.28.2025 - **Xiaotian** and **Yuxuan** passed their PQE and now become **PhD candidates**!
+8.28.2025 - **Xiaotian** and **Yuxuan** passed their Preliminary Qualification Exam and now become **PhD candidates**!
 
 8.22.2025 - Our paper **Lin et al.** "Chemoautotrophy Enhances Iron and Phosphorus Recycling From Sediments at Deep-Sea Methane Seeps" is now published in **_Global Biogeochemical Cycles_**. We discovered chemoautotrophs at cold seeps don't just feed the seafloor life–they also help promote the recycling of key nutrients iron and phosphorus. [(link)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GB008735)
 
