@@ -9,7 +9,7 @@
 
 8.22.2025 - Our paper **Lin et al.** "Chemoautotrophy Enhances Iron and Phosphorus Recycling From Sediments at Deep-Sea Methane Seeps" is now published in **_Global Biogeochemical Cycles_**. We discovered chemoautotrophs at cold seeps don't just feed the seafloor life–they also help promote the recycling of key nutrients iron and phosphorus. [(link)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GB008735)
 
-8.6.2025 - Our paper **Gao et al.** "Polyphosphate Dynamics in Marine Heterotrophic Bacteria Under Phosphorus and Organic Carbon Limitations" is published in **_Environmental Microbiology_**. We found that marine bacteria accumulate varying levels of polyP to adapt to their specific environmental niches, and this variability is linked to distinct polyP functions under carbon and phosphorus limitations.[(link)](https://doi.org/10.1111/1462-2920.70165)
+8.6.2025 - Our paper **Gao et al.** "Polyphosphate Dynamics in Marine Heterotrophic Bacteria Under Phosphorus and Organic Carbon Limitations" is published in **_Environmental Microbiology_**. We found that marine bacteria accumulate varying levels of polyP to adapt to their specific environmental niches, and this variability is linked to distinct polyP functions under carbon and phosphorus limitations. [(link)](https://doi.org/10.1111/1462-2920.70165)
 
 6.30.2025 - Jiying receives a **RGC-GRF Grant** to study polyphosphate in sediments (Jan 2026- Dec 2028). 
 
