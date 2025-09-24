@@ -25,7 +25,7 @@
 
 7.30.2024 - Our paper **Yang et al.** "Quantification of Polyphosphate in Environmental Planktonic Samples Using a Novel Fluorescence Dye JC-D7" is published in **_Environmental Science and Technology_**. After numerous tests over the past three years, we finally cracked this! For decades, polyP quantification in natural environments has been semiquantitative. Our method, for the first time, offers accurate quantification of polyP in natural planktonic samples. Our piles of samples (from many places and many seasons) will be analyzed using this new method! More stories are to come...[(link)](https://pubs.acs.org/doi/full/10.1021/acs.est.4c04545)
 
-6.30.2025 - Jiying receives a **RGC-GRF Grant** to study cycling and fluxes of N<sub>2</sub>O in sediments (Jan 2025- Dec 2027). 
+6.30.2024 - Jiying receives a **RGC-GRF Grant** to study cycling and fluxes of N<sub>2</sub>O in sediments (Jan 2025- Dec 2027). 
 
 4.16.2024 - Our paper **Yang et al.** "Polyphosphate phosphorus in the Great Lakes" is published in **_Limnology and Oceanography Letters_**. This is the first study of polyP in the World's largest freshwater ecosystem. Our findings help bridge a critical data gap in global polyP inventories, enabling a synthesis of polyP across systems of varying trophic states and microbial regimes. [(link)](https://doi.org/10.1002/lol2.10394)
 
