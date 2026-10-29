@@ -20,11 +20,6 @@
            <img src="/images/malawi3.png" width="240"> 
             <!--   <h3>Jiying Li</h3> -->
            <p>{{ site.description | default: site.github.project_tagline }}</p>   
-          <nav aria-label="Main navigation">
-            {% for item in site.data.navigation.main %}
-              <a href="{{ item.url | relative_url }}">{{ item.title }}</a>{% unless forloop.last %} · {% endunless %}
-            {% endfor %}
-          </nav>
           <style>   
              p.small {
                 line-height: 0.7;
@@ -51,7 +46,13 @@
      
       </header>
         
-      <section>            
+      <section>
+        <nav class="main-navigation" aria-label="Main navigation">
+          {% for item in site.data.navigation.main %}
+            <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>{% unless forloop.last %} / {% endunless %}
+          {% endfor %}
+        </nav>
+        <hr>
         {{ content }} 
       </section>
      

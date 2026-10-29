@@ -191,6 +191,18 @@ section {
   padding-bottom:50px;
 }
 
+.main-navigation {
+  margin-bottom: 12px;
+  line-height: 2;
+  white-space: nowrap;
+}
+
+@media print, screen and (max-width: 720px) {
+  .main-navigation {
+    white-space: normal;
+  }
+}
+
 small {
   font-size:11px;
 }
