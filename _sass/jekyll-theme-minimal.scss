@@ -203,6 +203,17 @@ section {
   color: #222;
 }
 
+.navigation-toggle {
+  display: none;
+}
+
+.navigation-links {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .main-navigation a {
   color: #222;
 }
@@ -219,9 +230,37 @@ section {
 @media print, screen and (max-width: 720px) {
   .main-navigation {
     white-space: normal;
+    display: block;
+  }
+
+  .navigation-toggle {
+    display: inline-block;
+    margin-bottom: 6px;
+    padding: 4px 10px;
+    border: 1px solid #222;
+    background: #fff;
+    color: #222;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .navigation-links {
+    display: none;
     flex-wrap: wrap;
     justify-content: flex-start;
     column-gap: 10px;
+  }
+
+  .main-navigation.is-open .navigation-links {
+    display: flex;
+  }
+
+  .main-navigation.is-open .navigation-toggle {
+    margin-bottom: 10px;
+  }
+
+  .main-navigation:not(.is-open) .nav-separator {
+    display: none;
   }
 }
 
