@@ -63,7 +63,7 @@ PhD in Marine Environmental Science, HKUST (2024)\
 <br/> 
 Thesis: Sediment biogeochemical cycles and exchanges with water column in the coastal ocean around the Pearl River Estuary. doi: 10.14711/thesis-991013384163903412\
 <br/>
-Currently a postdoc research at HKUST \
+Currently a postdoc researcher at HKUST \
 Email: jings@ust.hk\
 <br/> <br/> <br/> <br/><br/>
 
