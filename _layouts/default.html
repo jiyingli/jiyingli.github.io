@@ -50,6 +50,7 @@
         <div class="navigation-header">
         <nav class="main-navigation" aria-label="Main navigation">
           <button class="navigation-toggle" type="button" aria-expanded="false" aria-controls="main-navigation-links">Menu</button>
+          <span class="mobile-site-title">Jiying Li's lab</span>
           <div class="navigation-links" id="main-navigation-links">
             {% for item in site.data.navigation.main %}
               <span class="nav-item"><strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong></span>{% unless forloop.last %}<span class="nav-separator" aria-hidden="true">|</span>{% endunless %}
@@ -69,6 +70,8 @@
         var navigation = document.querySelector('.main-navigation');
         var toggle = document.querySelector('.navigation-toggle');
         var links = document.querySelector('.navigation-links');
+        var navigationHeader = document.querySelector('.navigation-header');
+        var pageHeader = document.querySelector('.wrapper > header');
 
         if (!navigation || !toggle || !links) return;
 
@@ -76,6 +79,17 @@
           var isOpen = navigation.classList.toggle('is-open');
           toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
         });
+
+        function updateMobileSiteTitle() {
+          if (!navigationHeader || !pageHeader || window.innerWidth > 720) return;
+
+          var headerBottom = pageHeader.getBoundingClientRect().bottom;
+          navigationHeader.classList.toggle('show-mobile-site-title', headerBottom <= 0);
+        }
+
+        window.addEventListener('scroll', updateMobileSiteTitle, { passive: true });
+        window.addEventListener('resize', updateMobileSiteTitle);
+        updateMobileSiteTitle();
       }());
     </script>
     {% if site.google_analytics %}

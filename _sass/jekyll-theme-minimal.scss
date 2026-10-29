@@ -215,6 +215,10 @@ section {
   display: none;
 }
 
+.mobile-site-title {
+  display: none;
+}
+
 .navigation-links {
   width: 100%;
   display: flex;
@@ -238,7 +242,10 @@ section {
 @media print, screen and (max-width: 720px) {
   .main-navigation {
     white-space: normal;
-    display: block;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px;
   }
 
   .navigation-toggle {
@@ -254,6 +261,7 @@ section {
 
   .navigation-links {
     display: none;
+    width: 100%;
     flex-wrap: wrap;
     justify-content: flex-start;
     column-gap: 10px;
@@ -268,6 +276,17 @@ section {
   }
 
   .main-navigation:not(.is-open) .nav-separator {
+    display: none;
+  }
+
+  .navigation-header.show-mobile-site-title .mobile-site-title {
+    display: inline;
+    font-size: 16px;
+    font-weight: bold;
+    color: #222;
+  }
+
+  .main-navigation.is-open .mobile-site-title {
     display: none;
   }
 }
