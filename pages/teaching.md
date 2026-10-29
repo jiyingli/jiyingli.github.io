@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Teaching"
+permalink: /teaching/
+---
+
 ### [**Home**](/) / [**Research**](/pages/research.html) / [**Teaching**](/pages/teaching.html) / [**People**](/pages/people.html) / [**Publications**](/pages/publications.html) / [**Join us**](/pages/joinus.html) / [**News**](/pages/news.html)
 ---
 
