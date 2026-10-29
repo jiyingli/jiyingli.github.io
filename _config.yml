@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 google_analytics: UA-172953179-1
 
 # Site Settings
-title                    : "Jiying Li's lab"
+title                    : "Jiying Li's Lab"
 title_separator          : "-"
 name                     : &name "Jiying Li"
 description: Welcome to our website. We study biogeochemistry in lakes and oceans.
