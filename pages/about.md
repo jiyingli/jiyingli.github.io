@@ -25,5 +25,5 @@ Life conveys energy and elements, shaping the chemistry of aquatic systems. Biol
 2.	aerobic methane productions from bacterial and phytoplankton utilization of methylated compounds. 
 
 
-#### See [here](/pages/research.md) for specific projects
+#### See [here](/pages/research.html) for specific projects
 
