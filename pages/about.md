@@ -4,8 +4,6 @@ title: "About Us"
 permalink: /
 ---
 
----
-
 # About Us
 We study the physical, biological, and chemical-driven exchange and transformation of elements in a diverse range of aquatic ecosystems including lakes, estuaries, coastal and deep oceans. We focus on the cycles of life-supporting elements including carbon, nitrogen, phosphorus, sulfur, and redox metals, using field and laboratory data coupled with numerical modeling. We seek to understand the mechanistic controls of biogeochemical cycling and their climate and environmental implications. 
 

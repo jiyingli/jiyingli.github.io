@@ -4,8 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
----
-
 ## Courses
 - _Chemical Oceanography_ (PG course, Hong Kong University of Science and Technology, 2020-now) 
 - _Marine Chemistry_ (UG course; Hong Kong University of Science and Technology, 2020-now)

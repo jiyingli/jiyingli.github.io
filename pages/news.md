@@ -3,8 +3,6 @@ layout: default
 title: "News"
 permalink: /news/
 ---
-
----
 ## News 
 (actually a retroactive record, updated whenever I remember it happened.)
 

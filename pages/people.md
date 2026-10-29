@@ -4,8 +4,6 @@ title: "People"
 permalink: /people/
 ---
 
----
-
 ## People 
 
 **Jiying Li （黎吉映）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/jiying3.png" width="180"> \

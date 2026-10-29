@@ -3,8 +3,6 @@ layout: default
 title: "Publications"
 permalink: /publications/
 ---
-
----
 ## Publications
 ### _Peer-reviewed Journals_
 (*: corresponding authors; †: student authors from our group)

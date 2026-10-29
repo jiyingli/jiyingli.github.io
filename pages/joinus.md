@@ -3,8 +3,6 @@ layout: default
 title: "Join us"
 permalink: /joinus/
 ---
-
----
 ## Join Us
 
 We always welcome creative and self-motivated students, postdocs, and visiting researchers to join our team. 

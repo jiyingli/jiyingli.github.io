@@ -4,8 +4,6 @@ title: "Research"
 permalink: /research/
 ---
 
----
-
 ## Current directions and projects
 
 ### Sediment oxygen consumption and hypoxia in coastal seas 
