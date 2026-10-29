@@ -243,7 +243,7 @@ section {
   .main-navigation {
     white-space: normal;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     align-items: center;
     gap: 12px;
   }
@@ -281,9 +281,12 @@ section {
 
   .navigation-header.show-mobile-site-title .mobile-site-title {
     display: inline;
-    font-size: 16px;
+    flex: 1;
+    min-width: 0;
+    font-size: 14px;
     font-weight: bold;
     color: #222;
+    white-space: nowrap;
   }
 
   .main-navigation.is-open .mobile-site-title {

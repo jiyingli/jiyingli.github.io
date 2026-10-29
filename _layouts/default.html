@@ -16,7 +16,7 @@
    <div class="wrapper">
       <header>
            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> 
-           <h3>Aquatic Biogeochem @HKUST</h3> 
+           <h3>Aquatic Biogeochem. @HKUST</h3>
            <img src="/images/malawi3.png" width="240"> 
             <!--   <h3>Jiying Li</h3> -->
            <p>{{ site.description | default: site.github.project_tagline }}</p>   
@@ -50,7 +50,7 @@
         <div class="navigation-header">
         <nav class="main-navigation" aria-label="Main navigation">
           <button class="navigation-toggle" type="button" aria-expanded="false" aria-controls="main-navigation-links">Menu</button>
-          <span class="mobile-site-title">Aquatic Biogeochemistry @HKUST</span>
+          <span class="mobile-site-title">Aquatic Biogeochem. @HKUST</span>
           <div class="navigation-links" id="main-navigation-links">
             {% for item in site.data.navigation.main %}
               <span class="nav-item"><strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong></span>{% unless forloop.last %}<span class="nav-separator" aria-hidden="true">|</span>{% endunless %}
