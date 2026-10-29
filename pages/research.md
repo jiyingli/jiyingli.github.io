@@ -1,4 +1,4 @@
-### [**Home**](/) / [**Research**](pages/research.html) / [**Teaching**](pages/teaching.html) / [**People**](pages/people.html) / [**Publications**](pages/publications.html) / [**Join us**](pages/joinus.html) / [**News**](pages/news.html) 
+### [**Home**](/) / [**Research**](/pages/research.html) / [**Teaching**](/pages/teaching.html) / [**People**](/pages/people.html) / [**Publications**](/pages/publications.html) / [**Join us**](/pages/joinus.html) / [**News**](/pages/news.html)
 ---
 
 ## Current directions and projects
@@ -35,4 +35,3 @@ Some findings include 1) Strong oxygen dynamics in carbon-poor sediments 2) modi
 
 ### Geochemical cycles in the tropical meromictic Lake Malawi (East Africa)
 <img align="left" style="float: left; padding-right: 30px;" src="/images/malawi2.png" width="240"> The meromictic tropical Lake Malawi is one of the largest East African Great Lakes, permanently stratified and remain anoxic below 200 meters, with its biogeochemical functioning differs substantially from temperate lakes. We characterized the carbon, nitrogen, and phosphorus cycling in the water column and sediments and compiling whole-lake geochemical budgets. 
-

@@ -1,4 +1,4 @@
-### [**Home**](../README.md) / [**Research**](research.md) / [**Teaching**](teaching.md) / [**People**](people.md) / [**Publications**](publications.md) / [**Join us**](joinus.md) / [**News**](news.md)
+### [**Home**](/) / [**Research**](/pages/research.html) / [**Teaching**](/pages/teaching.html) / [**People**](/pages/people.html) / [**Publications**](/pages/publications.html) / [**Join us**](/pages/joinus.html) / [**News**](/pages/news.html)
 ---
 
 ## Courses
@@ -7,5 +7,3 @@
 - _Ocean and Climate Change_ (UG course; Hong Kong University of Science and Technology, 2021-now)
 - _Principles and Applications of Environmental Science_ (UG course; Hong Kong Univeristy of Science and Technology, 2022-2025)
 - _The Earth as a Blue Planet_ (UG course; Hong Kong Univeristy of Science and Technology, 2024-2025)
-
-

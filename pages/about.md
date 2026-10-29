@@ -4,7 +4,7 @@ title: "About Us"
 permalink: /
 ---
 
-### [**Home**](/) / [**Research**](pages/research.html) / [**Teaching**](pages/teaching.html) / [**People**](pages/people.html) / [**Publications**](pages/publications.html) / [**Join us**](pages/joinus.html) / [**News**](pages/news.html) 
+### [**Home**](/) / [**Research**](/pages/research.html) / [**Teaching**](/pages/teaching.html) / [**People**](/pages/people.html) / [**Publications**](/pages/publications.html) / [**Join us**](/pages/joinus.html) / [**News**](/pages/news.html)
 ---
 
 # About Us
@@ -16,7 +16,8 @@ We study the physical, biological, and chemical-driven exchange and transformati
 Sediments sequester and recycle materials from the water column. In sediments, materials undergo biogeochemical transformations that determine the fate of vital elements. Some of the materials/elements recycle back into the water column to support biological activities; some escape the system as gases into the atmosphere; some are buried into deeper sediments entering the long-term geological cycle. These processes regulate functioning of aquatic ecosystems and impact regional and global biogeochemical cycles. We are interested in quantifying these processes and understanding their controls and impacts. We seek answers to questions related to:
 1.	how do sediments affect the chemistry and ecology of the water column 
 2.	how do sediment processes contribute to regional and global biogeochemical cycles across different time scales,
-3.	and how can we use sediment records to quantitatively understand the past and predict the future biogeochemical trends
+3.	how can we use sediment records to quantitatively understand the past and predict future biogeochemical trends?
+
 Centering around this theme, we study sediment early diagenetic processes and sediment-water exchanges of key elements, including oxygen, carbon, nitrogen, phosphorus, sulfur, and redox-sensitive metals like iron. We have investigated sediments from diverse environments, ranging from freshwater lakes and coastal zones to the deep sea.  
 
 ### - Nutrient biogeochemistry 
@@ -26,4 +27,3 @@ Life conveys energy and elements, shaping the chemistry of aquatic systems. Biol
 
 
 #### See [here](/pages/research.html) for specific projects
-

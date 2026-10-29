@@ -1,4 +1,4 @@
-### [**Home**](../README.md)  /  [**Research**](research.md)  /  [**Teaching**](teaching.md)  / [**People**](people.md)  /  [**Publications**](publications.md)  /  [**Join us**](joinus.md)  /  [**News**](news.md) 
+### [**Home**](/) / [**Research**](/pages/research.html) / [**Teaching**](/pages/teaching.html) / [**People**](/pages/people.html) / [**Publications**](/pages/publications.html) / [**Join us**](/pages/joinus.html) / [**News**](/pages/news.html)
 ---
 ## Publications
 ### _Peer-reviewed Journals_
@@ -128,4 +128,3 @@
 -	Li, J. and S. Katsev. Carbon and nutrient cycling in sediments of Lake Malawi. IAGLR Conference, West Lafayette IN, USA. June 2 -6, 2013 (Oral)
    
 -	Li, J., S. A. Crowe, D. Miklesh, D. E. Canfield, and S. Katsev. Migrations of sediment redox boundaries as indicators of change in oligotrophic systems, Goldschmidt Conference, Knoxville, Tennessee, USA. June 13- 18, 2010 (Oral) 
-
