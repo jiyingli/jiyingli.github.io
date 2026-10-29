@@ -9,7 +9,7 @@ permalink: /people/
 **Jiying Li （黎吉映）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/jiying3.png" width="180"> \
 PhD in Limnology and Oceanography, University of Minnesota (2014)\
 <br/>
-Assistant Professor，PI\
+Assistant Professor, PI\
 Department of Ocean Science, The Hong Kong University of Science and Technology\
 Email: jiyingli@ust.hk\
 Tel.: +(852) 3469 2934
@@ -23,7 +23,7 @@ PhD student (2024 - now)\
 Marine environmental science, HKUST\
 Email: csunao@connect.ust.hk\
 <br/>
-Chuanzhe studies sediments biogeochemistry in lakes, wetlands, and coastal oceans, focusing on on cycles of muti-elements including carbon, phosphorus, nitrogen, and metals.\
+Chuanzhe studies sediment biogeochemistry in lakes, wetlands, and coastal oceans, focusing on cycles of multiple elements including carbon, phosphorus, nitrogen, and metals.\
 <br/><br/> 
 
 **Yuxuan Lin （林宇軒）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/Yuxuan.png" width="180"> \
@@ -39,10 +39,10 @@ Yuxuan studies sediment biogeochemistry, focusing on the coupled cycles of carbo
 **Xiaotian Zhou （周筱田）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/xiaotian2.png" width="180"> \
 MPhil in Fishery Resources, Zhejiang Ocean University (2022)\
 <br/>
-PhD student (2023- now)\
+PhD student (2023 - now)\
 Email: xzhoucl@connect.ust.hk\
 <br/>
-Xiaotian works on microbial survial strategies under phosphorus limiation and feedback to ecosystem biogeochemical cycles. Her current projects include 1) aerobic methane production from methylated compounds in aquatic environments and 2) roles and dynamics of polyphosphate in cyanobacteria during overwintering. 
+Xiaotian works on microbial survival strategies under phosphorus limitation and feedback to ecosystem biogeochemical cycles. Her current projects include 1) aerobic methane production from methylated compounds in aquatic environments and 2) roles and dynamics of polyphosphate in cyanobacteria during overwintering.
 <br/><br/>
 
 **Xingyu Yang （楊興宇）**  <img align="right" style="float: left; padding-right: 30px;" src="/images/xingyu.png" width="180"> \
@@ -75,7 +75,7 @@ Thesis: Polyphosphate dynamics in marine heterotrophic bacteria under phosphorus
 Currently a Technical Officer at Ocean Research Facility, HKUST\
 <br/><br/> <br/><br/>
 
-**Lei Zhou** ：\
+**Lei Zhou**\
 MPhil, Marine Environmental Science (2020- 2022)\
 Thesis: Sediment oxygen uptake and carbon mineralization in the Pearl River Estuary and adjacent coastal waters. doi:10.14711/thesis-991013088359403412.
 <br/><br/>
