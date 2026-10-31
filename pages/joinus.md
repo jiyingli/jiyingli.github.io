@@ -5,7 +5,7 @@ permalink: /joinus/
 ---
 ## Join Us
 
-**Please note:** We do not publish content on rednote（xiaohongshu）, WeChat, or any other third-party platform — any content about us or our work posted there is not published by us. We post only on this site, and take no responsibility for content published elsewhere. In particular, any recruitment or hiring posts on such platforms are not from us.
+**Please note:** We do not publish content on rednote (xiaohongshu), WeChat, or any other third-party platform — any content about us or our work posted there is not published by us. We post only on this site, and take no responsibility for content published elsewhere. In particular, any recruitment or hiring posts on such platforms are not from us.
 <!--
 We welcome creative and self-motivated students, postdocs, and visiting researchers to join our team. 
 To inquire, please contact me via [email](mailto:jiyingli@ust.hk).
