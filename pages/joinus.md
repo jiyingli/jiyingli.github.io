@@ -23,7 +23,7 @@ Applicants are encouraged to [get in touch](mailto:jiyingli@ust.hk) early to dis
 Please refer to the HKUST website for more information about the [University](https://www.ust.hk/), the [OCES department](https://oces.ust.hk/), [postgraduate studies](https://pg.ust.hk/prospective-students/home), the [postgraduate program](https://oces.ust.hk/program-overview), [admission requirements](https://pg.ust.hk/prospective-students/admissions/admission-requirements) and [Student Scholarships](https://pg.ust.hk/prospective-students/scholarship-fees/generous-scholarship).
 
 ### Postdoctoral Researcher 
-**Note: We currently have no funding for postdoctoral positions and am not recruiting postdocs at this time (as of 2026). Please check back for updates.**
+**Note: We currently have no funding for postdoctoral positions (as of 2026). Please check back for updates.**
 <!--
 Please [contact us](mailto:jiyingli@ust.hk) for possible openings and and fundings
 -->
